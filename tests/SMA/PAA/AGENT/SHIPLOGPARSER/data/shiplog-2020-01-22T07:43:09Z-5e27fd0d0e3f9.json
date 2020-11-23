@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "d43ff413-cc7e-47c7-8811-506c472eb897",
+        "parent": null,
+        "template": 3032,
+        "vessel": {
+            "mmsi": 231843000,
+            "speedOverGround": 1.5,
+            "highAccuracy": false,
+            "longitude": 17.213546666666666,
+            "latitude": 60.689535,
+            "courseOverGround": 297.6,
+            "received": "2020-01-22T07:41:45.338Z",
+            "trueHeading": 118,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T07:41:45.338Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "EKEN",
+        "imo": 9263564,
+        "callsign": "OZ2129",
+        "offsets": {
+            "bow": 73,
+            "stern": 16,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 3.9,
+        "destination": "GAVLE",
+        "eta": "2020-01-21T01:00:00Z"
+    },
+    "area": {
+        "id": 2408,
+        "name": "5 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

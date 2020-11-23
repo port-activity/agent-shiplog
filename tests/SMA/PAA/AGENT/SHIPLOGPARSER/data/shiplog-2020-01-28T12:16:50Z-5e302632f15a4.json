@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "505b5ef6-f3ae-468d-86ee-bd083dcf0082",
+        "parent": "8d74719b-8bdb-4a51-be29-b89dab3916e7",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265646240,
+            "speedOverGround": 29.1,
+            "highAccuracy": false,
+            "longitude": 17.326688333333333,
+            "latitude": 60.69922666666666,
+            "courseOverGround": 79.9,
+            "received": "2020-01-28T12:16:31.076Z",
+            "trueHeading": 83,
+            "navigationalStatus": "undefined",
+            "rateOfTurn": 127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-28T12:09:21.063Z",
+        "departure": {
+            "departure": "2020-01-28T12:16:31.076Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "KBV 428",
+        "imo": 0,
+        "callsign": "7SA2443",
+        "offsets": {
+            "bow": 4,
+            "stern": 4,
+            "port": 1,
+            "starboard": 1
+        },
+        "draught": 0.5,
+        "destination": "",
+        "eta": null
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

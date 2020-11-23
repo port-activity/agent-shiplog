@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "76c00ae1-8f63-484b-b376-3bd2100041b9",
+        "parent": "0d2e28b9-6d6b-4bc8-8c19-75cec634de68",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 266465000,
+            "speedOverGround": 11.2,
+            "highAccuracy": true,
+            "longitude": 17.324078333333333,
+            "latitude": 60.731675,
+            "courseOverGround": 51.8,
+            "received": "2020-01-26T05:17:48.711Z",
+            "trueHeading": 50,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-25T19:37:36.748Z",
+        "departure": {
+            "departure": "2020-01-26T05:17:48.711Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "MERCURIUS",
+        "imo": 9816531,
+        "callsign": "SBDW",
+        "offsets": {
+            "bow": 93,
+            "stern": 27,
+            "port": 3,
+            "starboard": 16
+        },
+        "draught": 5.7,
+        "destination": "BROFJORDEN",
+        "eta": "2020-01-28T12:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

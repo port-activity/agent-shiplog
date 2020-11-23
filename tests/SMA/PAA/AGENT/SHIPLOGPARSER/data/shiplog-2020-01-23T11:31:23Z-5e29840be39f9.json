@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "ab2f25c5-ca45-4422-a29e-ad195c8b1ac2",
+        "parent": "dea07b26-85c4-49ae-9647-431356ae5655",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 314465000,
+            "speedOverGround": 10.5,
+            "highAccuracy": false,
+            "longitude": 17.324395,
+            "latitude": 60.73181666666667,
+            "courseOverGround": 50.1,
+            "received": "2020-01-23T11:30:56.122Z",
+            "trueHeading": 51,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T08:23:21.953Z",
+        "departure": {
+            "departure": "2020-01-23T11:30:56.122Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "FLUVIUS KENN",
+        "imo": 8915756,
+        "callsign": "8PAP9",
+        "offsets": {
+            "bow": 78,
+            "stern": 10,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 3.4,
+        "destination": "UST LUGA",
+        "eta": "2020-01-24T23:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

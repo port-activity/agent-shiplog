@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "a47f1bca-c53e-46ad-9822-5979e09a85d8",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 235012220,
+            "speedOverGround": 3.5,
+            "highAccuracy": true,
+            "longitude": 17.274333333333335,
+            "latitude": 60.68766666666667,
+            "courseOverGround": 12,
+            "received": "2020-01-14T21:03:50.243Z",
+            "trueHeading": 187,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 4,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T06:16:17.226Z",
+        "departure": {
+            "departure": "2020-01-14T21:03:50.243Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "FEMBRIA",
+        "imo": 9350771,
+        "callsign": "MPTX6",
+        "offsets": {
+            "bow": 99,
+            "stern": 18,
+            "port": 12,
+            "starboard": 5
+        },
+        "draught": 4.5,
+        "destination": "KLAIPEDA",
+        "eta": "2020-01-16T06:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

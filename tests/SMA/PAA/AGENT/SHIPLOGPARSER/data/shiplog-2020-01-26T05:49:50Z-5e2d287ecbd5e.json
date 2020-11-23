@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "469d3405-aeee-456e-bea7-6d93d755a3ef",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 266466000,
+            "speedOverGround": 12,
+            "highAccuracy": true,
+            "longitude": 17.59733333333333,
+            "latitude": 60.71116666666667,
+            "courseOverGround": 274,
+            "received": "2020-01-26T05:48:41.303Z",
+            "trueHeading": 274,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T05:48:41.303Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ASTREA",
+        "imo": 9488839,
+        "callsign": "SBDA",
+        "offsets": {
+            "bow": 104,
+            "stern": 25,
+            "port": 8,
+            "starboard": 12
+        },
+        "draught": 8.1,
+        "destination": "GAVLE",
+        "eta": "2020-01-26T06:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

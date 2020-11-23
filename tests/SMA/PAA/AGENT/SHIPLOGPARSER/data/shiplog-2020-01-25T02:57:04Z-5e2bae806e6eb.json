@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "430bc7b5-7bce-4982-b42b-0448f497a633",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 255806249,
+            "speedOverGround": 10,
+            "highAccuracy": true,
+            "longitude": 17.600166666666667,
+            "latitude": 60.7105,
+            "courseOverGround": 271,
+            "received": "2020-01-25T02:56:14.010Z",
+            "trueHeading": 271,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-25T02:56:14.010Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ADELINA D",
+        "imo": 9306079,
+        "callsign": "CQAQ7",
+        "offsets": {
+            "bow": 152,
+            "stern": 14,
+            "port": 10,
+            "starboard": 15
+        },
+        "draught": 8,
+        "destination": "GAEVLE",
+        "eta": "2020-01-25T03:30:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

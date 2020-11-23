@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "393798cc-1d92-41ae-84a8-088f567ce3ee",
+        "parent": null,
+        "template": 3022,
+        "vessel": {
+            "mmsi": 244264000,
+            "speedOverGround": 1.1,
+            "highAccuracy": false,
+            "longitude": 17.2195,
+            "latitude": 60.69368333333333,
+            "courseOverGround": 333.5,
+            "received": "2020-01-29T08:12:53.970Z",
+            "trueHeading": 336,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-29T08:12:53.970Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ICE STAR",
+        "imo": 9142631,
+        "callsign": "PCAE",
+        "offsets": {
+            "bow": 81,
+            "stern": 8,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 6.1,
+        "destination": "GAVLE",
+        "eta": "2020-01-29T11:00:00Z"
+    },
+    "area": {
+        "id": 2398,
+        "name": "16 Slig kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

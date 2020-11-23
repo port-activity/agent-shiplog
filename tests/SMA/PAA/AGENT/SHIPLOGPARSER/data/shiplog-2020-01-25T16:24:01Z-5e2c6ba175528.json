@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "99170639-2121-4d1c-b80c-2eb21be09566",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 212536000,
+            "speedOverGround": 11.1,
+            "highAccuracy": true,
+            "longitude": 17.599480000000003,
+            "latitude": 60.71039333333333,
+            "courseOverGround": 91,
+            "received": "2020-01-25T16:23:07.404Z",
+            "trueHeading": 92,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-24T19:53:24.343Z",
+        "departure": {
+            "departure": "2020-01-25T16:23:07.404Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "HALLAND",
+        "imo": 9436238,
+        "callsign": "5BMA2",
+        "offsets": {
+            "bow": 104,
+            "stern": 15,
+            "port": 15,
+            "starboard": 1
+        },
+        "draught": 4.7,
+        "destination": "RIGA",
+        "eta": "2020-01-26T21:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

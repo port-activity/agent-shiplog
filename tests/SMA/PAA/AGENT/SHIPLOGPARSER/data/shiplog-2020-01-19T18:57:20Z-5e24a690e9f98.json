@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "11c5beb3-69ea-4206-9fc0-1fcc232bec10",
+        "parent": null,
+        "template": 3024,
+        "vessel": {
+            "mmsi": 245451000,
+            "speedOverGround": 1.8,
+            "highAccuracy": false,
+            "longitude": 17.22233333333333,
+            "latitude": 60.69133333333333,
+            "courseOverGround": 1,
+            "received": "2020-01-19T18:51:57.428Z",
+            "trueHeading": 169,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -8,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T18:51:57.428Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "MARJA",
+        "imo": 9113721,
+        "callsign": "PHBB",
+        "offsets": {
+            "bow": 78,
+            "stern": 22,
+            "port": 16,
+            "starboard": 2
+        },
+        "draught": 5.4,
+        "destination": "SEGVX",
+        "eta": "2020-01-19T20:00:00Z"
+    },
+    "area": {
+        "id": 2400,
+        "name": "19 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

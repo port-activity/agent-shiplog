@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "cd4a0184-49ba-4342-a561-625f0ff4eeb9",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265505420,
+            "speedOverGround": 20.5,
+            "highAccuracy": false,
+            "longitude": 17.475825,
+            "latitude": 60.78801333333333,
+            "courseOverGround": 220.4,
+            "received": "2020-01-27T21:39:39.324Z",
+            "trueHeading": 222,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 21,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T21:39:39.324Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "PILOT 743 SE",
+        "imo": 0,
+        "callsign": "SHNK",
+        "offsets": {
+            "bow": 11,
+            "stern": 6,
+            "port": 2,
+            "starboard": 2
+        },
+        "draught": 0,
+        "destination": "",
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

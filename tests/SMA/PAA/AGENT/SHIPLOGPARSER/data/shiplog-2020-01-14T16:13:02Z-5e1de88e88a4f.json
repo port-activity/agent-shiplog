@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "9998f7b1-56bf-4849-9d11-877a8bac7235",
+        "parent": "4bfdb705-8daa-46b9-83f3-560cbaf7dc08",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265737860,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.211058333333334,
+            "latitude": 60.689566666666664,
+            "courseOverGround": 286,
+            "received": "2020-01-14T14:02:04.830Z",
+            "trueHeading": 97,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:26.126Z",
+        "departure": {
+            "departure": "2020-01-14T14:02:04.830Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "GRIZZLY AF GEFLE",
+        "imo": 9148764,
+        "callsign": "SCPB",
+        "offsets": {
+            "bow": 12,
+            "stern": 20,
+            "port": 4,
+            "starboard": 6
+        },
+        "draught": 4.6,
+        "destination": "HARBOUR TUG CH8",
+        "eta": "2020-03-26T19:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

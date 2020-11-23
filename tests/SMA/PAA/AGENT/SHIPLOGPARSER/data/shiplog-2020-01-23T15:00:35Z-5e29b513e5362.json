@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "cc87f358-7f59-43dc-a98d-e7f700edbb90",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265724570,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.16745,
+            "latitude": 60.678493333333336,
+            "courseOverGround": 244.4,
+            "received": "2020-01-21T14:53:18.659Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T10:17:02.042Z",
+        "departure": {
+            "departure": "2020-01-21T14:53:18.659Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "MALVINA",
+        "imo": null,
+        "callsign": "8SY9455",
+        "offsets": {
+            "bow": 9,
+            "stern": 1,
+            "port": 1,
+            "starboard": 2
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

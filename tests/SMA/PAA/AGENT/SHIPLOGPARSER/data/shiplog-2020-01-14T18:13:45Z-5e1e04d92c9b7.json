@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "d81ae1e2-8ef6-437c-959f-dac83ef10819",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 314431000,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.217233333333336,
+            "latitude": 60.69486666666667,
+            "courseOverGround": 353.9,
+            "received": "2020-01-14T13:21:10.692Z",
+            "trueHeading": 161,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:10.273Z",
+        "departure": {
+            "departure": "2020-01-14T13:21:10.692Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "FLUVIUS TAW",
+        "imo": 9195858,
+        "callsign": "8PAL8",
+        "offsets": {
+            "bow": 80,
+            "stern": 15,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 6,
+        "destination": "SE GVX",
+        "eta": "2020-01-12T09:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

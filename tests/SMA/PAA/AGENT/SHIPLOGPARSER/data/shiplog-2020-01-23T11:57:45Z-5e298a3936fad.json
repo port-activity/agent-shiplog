@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "eb7d9f0b-e656-4972-af6d-8d4a24e96883",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 259888000,
+            "speedOverGround": 11.5,
+            "highAccuracy": true,
+            "longitude": 17.58818,
+            "latitude": 60.710501666666666,
+            "courseOverGround": 273.4,
+            "received": "2020-01-23T11:57:13.197Z",
+            "trueHeading": 275,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T11:57:13.197Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "STAVFJORD",
+        "imo": 9401544,
+        "callsign": "LAHA7",
+        "offsets": {
+            "bow": 113,
+            "stern": 31,
+            "port": 12,
+            "starboard": 11
+        },
+        "draught": 9,
+        "destination": "SE GVX",
+        "eta": "2020-01-23T12:30:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

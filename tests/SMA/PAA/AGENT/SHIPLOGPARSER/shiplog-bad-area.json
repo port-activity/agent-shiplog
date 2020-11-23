@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "77229b3a-1821-46f7-908a-1ab3138d5036",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 265739270,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.23037,
+            "latitude": 60.69613666666667,
+            "courseOverGround": 360,
+            "received": "2020-01-13T07:20:18.740Z",
+            "trueHeading": 248,
+            "navigationalStatus": "restricted_maneuverability",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:18.740Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "TUG BEAVER",
+        "imo": 8414166,
+        "callsign": "SDLQ",
+        "offsets": {
+            "bow": 10,
+            "stern": 19,
+            "port": 2,
+            "starboard": 7
+        },
+        "draught": 4.8,
+        "destination": "GAVLE",
+        "eta": "2020-10-14T13:00:00Z"
+    },
+    "area": {
+        "id": 9999,
+        "name": "Aurajoki"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

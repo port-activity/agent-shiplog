@@ -1,0 +1,8 @@
+vendor
+coverage
+version_build_id
+version_hash
+.env
+src/public/uploads/
+tests/**/*.kml
+**/.DS_Store

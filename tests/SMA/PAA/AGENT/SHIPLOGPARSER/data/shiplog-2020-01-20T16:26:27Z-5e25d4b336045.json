@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "6e29a37d-cdaf-485c-876d-457cc785072d",
+        "parent": "b8abb4f9-1f81-492b-a70d-58bb5aeb2d71",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 235008920,
+            "speedOverGround": 9.5,
+            "highAccuracy": true,
+            "longitude": 17.323798333333333,
+            "latitude": 60.73153166666667,
+            "courseOverGround": 51.3,
+            "received": "2020-01-20T16:25:56.683Z",
+            "trueHeading": 49,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T23:32:15.605Z",
+        "departure": {
+            "departure": "2020-01-20T16:25:56.683Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "OSTERBOTTEN",
+        "imo": 9247120,
+        "callsign": "MHYJ3",
+        "offsets": {
+            "bow": 89,
+            "stern": 21,
+            "port": 8,
+            "starboard": 7
+        },
+        "draught": 4.5,
+        "destination": "KEMI",
+        "eta": "2020-01-22T06:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

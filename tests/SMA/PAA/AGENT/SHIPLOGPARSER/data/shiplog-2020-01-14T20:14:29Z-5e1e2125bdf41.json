@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "0ded9a86-f160-4ad9-ab37-da7d1cc68c10",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265550870,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.171855,
+            "latitude": 60.679115,
+            "courseOverGround": 360,
+            "received": "2020-01-14T15:33:16.488Z",
+            "trueHeading": null,
+            "navigationalStatus": "moored",
+            "rateOfTurn": -128,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:16.792Z",
+        "departure": {
+            "departure": "2020-01-14T15:33:16.488Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "M\/S KUNG CARL GUSTAF",
+        "imo": 0,
+        "callsign": "SHYF",
+        "offsets": {
+            "bow": 0,
+            "stern": 0,
+            "port": 0,
+            "starboard": 0
+        },
+        "draught": 0,
+        "destination": "GAVLE",
+        "eta": "2020-10-08T19:30:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

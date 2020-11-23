@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "077fc692-4241-49dc-b809-51acab78409e",
+        "parent": "372d9103-3698-4e1a-8779-a7093c8cead7",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 636091104,
+            "speedOverGround": 9.2,
+            "highAccuracy": false,
+            "longitude": 17.323666666666668,
+            "latitude": 60.7315,
+            "courseOverGround": 232.6,
+            "received": "2020-01-18T11:34:29.806Z",
+            "trueHeading": 232,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -8,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T11:34:29.806Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ANNABA",
+        "imo": 9306201,
+        "callsign": "A8JJ8",
+        "offsets": {
+            "bow": 147,
+            "stern": 20,
+            "port": 15,
+            "starboard": 11
+        },
+        "draught": 8,
+        "destination": "SEGVX",
+        "eta": "2020-01-18T06:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

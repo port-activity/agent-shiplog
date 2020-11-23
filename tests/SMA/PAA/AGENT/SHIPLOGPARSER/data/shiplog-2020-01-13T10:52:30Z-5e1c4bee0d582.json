@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "0cdb3e38-7c03-4f7e-a5eb-94b74a2397fc",
+        "parent": "ad5dcc42-5c19-476f-9a7d-d1f02e5e56fb",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 245451000,
+            "speedOverGround": 8.9,
+            "highAccuracy": false,
+            "longitude": 17.32316666666667,
+            "latitude": 60.73133333333333,
+            "courseOverGround": 48,
+            "received": "2020-01-13T10:51:48.481Z",
+            "trueHeading": 50,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:44.722Z",
+        "departure": {
+            "departure": "2020-01-13T10:51:48.481Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "MARJA",
+        "imo": 9113721,
+        "callsign": "PHBB",
+        "offsets": {
+            "bow": 78,
+            "stern": 22,
+            "port": 16,
+            "starboard": 2
+        },
+        "draught": 5.3,
+        "destination": "SENRK",
+        "eta": "2020-01-14T09:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "437f6d2b-dfb8-4d19-a0e9-39c4e41ef9d3",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 231794000,
+            "speedOverGround": 10.6,
+            "highAccuracy": false,
+            "longitude": 17.599643333333333,
+            "latitude": 60.70955,
+            "courseOverGround": 100.8,
+            "received": "2020-01-19T15:46:15.980Z",
+            "trueHeading": 100,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 7,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T04:47:25.583Z",
+        "departure": {
+            "departure": "2020-01-19T15:46:15.980Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "NAVEN",
+        "imo": 9020285,
+        "callsign": "OZ2107",
+        "offsets": {
+            "bow": 74,
+            "stern": 15,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 3.7,
+        "destination": "RIGA",
+        "eta": "2020-01-21T01:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

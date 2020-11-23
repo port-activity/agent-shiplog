@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "a1d1d4cb-77e8-4e0e-9757-c990b35652a9",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 236223000,
+            "speedOverGround": 10.8,
+            "highAccuracy": false,
+            "longitude": 17.550773333333332,
+            "latitude": 60.710705,
+            "courseOverGround": 271,
+            "received": "2020-01-24T23:14:13.359Z",
+            "trueHeading": 272,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "AISSat_2",
+            "source": "sat"
+        },
+        "arrived": "2020-01-24T22:48:19.628Z",
+        "departure": {
+            "departure": "2020-01-24T23:14:13.359Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LIVLAND",
+        "imo": 9237034,
+        "callsign": "ZDGA5",
+        "offsets": {
+            "bow": 80,
+            "stern": 20,
+            "port": 12,
+            "starboard": 4
+        },
+        "draught": 4.8,
+        "destination": "KARSKAER",
+        "eta": "2020-01-24T23:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

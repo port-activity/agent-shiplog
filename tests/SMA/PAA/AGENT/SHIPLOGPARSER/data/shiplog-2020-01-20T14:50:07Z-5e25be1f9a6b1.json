@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "9677ade4-ed0b-4c84-84c0-27905fca45b3",
+        "parent": null,
+        "template": 3031,
+        "vessel": {
+            "mmsi": 245930000,
+            "speedOverGround": 0.1,
+            "highAccuracy": false,
+            "longitude": 17.213,
+            "latitude": 60.68966666666667,
+            "courseOverGround": 288,
+            "received": "2020-01-20T14:47:03.237Z",
+            "trueHeading": 289,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-20T14:47:03.237Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "VANCOUVERBORG",
+        "imo": 9213741,
+        "callsign": "PBCF",
+        "offsets": {
+            "bow": 122,
+            "stern": 10,
+            "port": 7,
+            "starboard": 9
+        },
+        "draught": 6.1,
+        "destination": "VUOSAARI",
+        "eta": "2020-01-17T04:00:00Z"
+    },
+    "area": {
+        "id": 2407,
+        "name": "4 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

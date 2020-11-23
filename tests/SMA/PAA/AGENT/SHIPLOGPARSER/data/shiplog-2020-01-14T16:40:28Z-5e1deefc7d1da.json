@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "a8d6478e-b628-4589-973e-8b63db019294",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265792030,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.38525,
+            "latitude": 60.64846166666667,
+            "courseOverGround": 360,
+            "received": "2020-01-14T14:07:08.545Z",
+            "trueHeading": null,
+            "navigationalStatus": "under_way_sailing",
+            "rateOfTurn": -128,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:18.137Z",
+        "departure": {
+            "departure": "2020-01-14T14:07:08.545Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "HEROS",
+        "imo": 7302732,
+        "callsign": "SFZD",
+        "offsets": {
+            "bow": 11,
+            "stern": 22,
+            "port": 4,
+            "starboard": 5
+        },
+        "draught": 4.6,
+        "destination": "GAVLE",
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

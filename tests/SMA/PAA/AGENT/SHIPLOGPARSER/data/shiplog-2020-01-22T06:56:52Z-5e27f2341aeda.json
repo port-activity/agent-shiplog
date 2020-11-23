@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "1706623f-6f64-482f-b0f2-e50492578365",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 636091854,
+            "speedOverGround": 1.5,
+            "highAccuracy": true,
+            "longitude": 17.221718333333335,
+            "latitude": 60.69276,
+            "courseOverGround": 344.8,
+            "received": "2020-01-22T06:52:49.800Z",
+            "trueHeading": 160,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -2,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T06:52:49.800Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "HELUAN",
+        "imo": 9358905,
+        "callsign": "A8TT2",
+        "offsets": {
+            "bow": 146,
+            "stern": 15,
+            "port": 20,
+            "starboard": 5
+        },
+        "draught": 9,
+        "destination": "GAVLE",
+        "eta": "2020-01-22T05:30:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

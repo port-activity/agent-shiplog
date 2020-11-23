@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "c73a561f-2cb1-441c-b402-8b85b05b85e5",
+        "parent": "087482e1-304c-4064-980f-6fb88ccab83a",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 235009040,
+            "speedOverGround": 7.7,
+            "highAccuracy": true,
+            "longitude": 17.32330166666667,
+            "latitude": 60.73141,
+            "courseOverGround": 51.2,
+            "received": "2020-01-16T00:15:11.492Z",
+            "trueHeading": 51,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 3,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-15T10:19:51.562Z",
+        "departure": {
+            "departure": "2020-01-16T00:15:11.492Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ESTLAND",
+        "imo": 9247314,
+        "callsign": "MJFC3",
+        "offsets": {
+            "bow": 81,
+            "stern": 18,
+            "port": 13,
+            "starboard": 4
+        },
+        "draught": 4.1,
+        "destination": "FARJSUNDET",
+        "eta": "2020-01-16T12:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

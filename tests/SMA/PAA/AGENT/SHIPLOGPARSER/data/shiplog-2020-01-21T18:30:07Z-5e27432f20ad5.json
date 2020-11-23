@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "642fc1af-50b8-47f0-a82f-eec9621dce0e",
+        "parent": "b63982ff-89a2-4f1e-829e-3a38b10db196",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 244150000,
+            "speedOverGround": 8.6,
+            "highAccuracy": false,
+            "longitude": 17.324105,
+            "latitude": 60.731701666666666,
+            "courseOverGround": 47.6,
+            "received": "2020-01-21T18:29:49.340Z",
+            "trueHeading": 47,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-20T17:30:37.514Z",
+        "departure": {
+            "departure": "2020-01-21T18:29:49.340Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LADY NOLA",
+        "imo": 9243863,
+        "callsign": "PBFO",
+        "offsets": {
+            "bow": 71,
+            "stern": 9,
+            "port": 10,
+            "starboard": 2
+        },
+        "draught": 5.1,
+        "destination": "KLAIPEDA",
+        "eta": "2020-01-23T07:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

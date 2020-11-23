@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "dea07b26-85c4-49ae-9647-431356ae5655",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 314465000,
+            "speedOverGround": 9.6,
+            "highAccuracy": false,
+            "longitude": 17.600355,
+            "latitude": 60.709935,
+            "courseOverGround": 273.4,
+            "received": "2020-01-22T07:31:51.999Z",
+            "trueHeading": 272,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T07:31:51.999Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "FLUVIUS KENN",
+        "imo": 8915756,
+        "callsign": "8PAP9",
+        "offsets": {
+            "bow": 78,
+            "stern": 10,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 5.4,
+        "destination": "GAVLE",
+        "eta": "2020-01-22T09:50:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "77cf1ed3-ce1b-4f71-aee2-2c7bd3f736ed",
+        "parent": null,
+        "template": 3020,
+        "vessel": {
+            "mmsi": 230666000,
+            "speedOverGround": 1,
+            "highAccuracy": true,
+            "longitude": 18.803333333333335,
+            "latitude": 60.218333333333334,
+            "courseOverGround": 7.3,
+            "received": "2020-01-21T19:01:34.467Z",
+            "trueHeading": null,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": null,
+            "aisOrigin": "self",
+            "feed": "NorSat_1",
+            "source": "sat"
+        },
+        "arrived": "2020-01-21T18:55:38.095Z",
+        "departure": {
+            "departure": "2020-01-21T19:01:34.467Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "BALTIC MADONNA",
+        "imo": 9100138,
+        "callsign": "OJRV",
+        "offsets": {
+            "bow": 77,
+            "stern": 13,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 4.7,
+        "destination": "GAEVLE",
+        "eta": "2020-01-21T17:15:00Z"
+    },
+    "area": {
+        "id": 2396,
+        "name": "12 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

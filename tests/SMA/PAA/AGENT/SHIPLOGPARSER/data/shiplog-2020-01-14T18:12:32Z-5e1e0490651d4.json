@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "b953043c-73b7-43a4-a9a4-c2fe18c0e76e",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 247661000,
+            "speedOverGround": 0.1,
+            "highAccuracy": true,
+            "longitude": 17.42608166666667,
+            "latitude": 60.70953333333333,
+            "courseOverGround": 301.6,
+            "received": "2020-01-14T13:20:24.707Z",
+            "trueHeading": 186,
+            "navigationalStatus": "at_anchor",
+            "rateOfTurn": -9,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:24.566Z",
+        "departure": {
+            "departure": "2020-01-14T13:20:24.707Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "GRANATO",
+        "imo": 9201774,
+        "callsign": "IBOH",
+        "offsets": {
+            "bow": 100,
+            "stern": 21,
+            "port": 8,
+            "starboard": 8
+        },
+        "draught": 5.3,
+        "destination": "GAVLE FOR ORDERS",
+        "eta": "2020-01-06T15:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

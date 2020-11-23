@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "3a7cac3d-a204-4033-aa94-7b658449df82",
+        "parent": null,
+        "template": 3031,
+        "vessel": {
+            "mmsi": 212518000,
+            "speedOverGround": 1.1,
+            "highAccuracy": false,
+            "longitude": 17.212974999999997,
+            "latitude": 60.68938,
+            "courseOverGround": 132.9,
+            "received": "2020-01-27T12:26:21.745Z",
+            "trueHeading": 296,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T08:06:33.317Z",
+        "departure": {
+            "departure": "2020-01-27T12:26:21.745Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "TRANSMAR",
+        "imo": 9167332,
+        "callsign": "5BDN4",
+        "offsets": {
+            "bow": 75,
+            "stern": 15,
+            "port": 6,
+            "starboard": 8
+        },
+        "draught": 3.9,
+        "destination": "SZCZECIN",
+        "eta": "2020-01-29T16:00:00Z"
+    },
+    "area": {
+        "id": 2407,
+        "name": "4 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

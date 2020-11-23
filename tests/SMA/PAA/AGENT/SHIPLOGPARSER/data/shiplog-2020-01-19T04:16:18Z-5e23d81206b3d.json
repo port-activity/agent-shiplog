@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "daee68a0-ff82-40a8-aa9c-942f3c95484b",
+        "parent": "7cd7de1d-f199-48fd-b7cf-d1f44d9645b7",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 231794000,
+            "speedOverGround": 9.1,
+            "highAccuracy": false,
+            "longitude": 17.323441666666668,
+            "latitude": 60.73142166666666,
+            "courseOverGround": 231.2,
+            "received": "2020-01-19T04:15:45.948Z",
+            "trueHeading": 232,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -12,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T04:15:45.948Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "NAVEN",
+        "imo": 9020285,
+        "callsign": "OZ2107",
+        "offsets": {
+            "bow": 74,
+            "stern": 15,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 5.3,
+        "destination": "KARSKAR",
+        "eta": "2020-01-19T05:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

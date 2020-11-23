@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "9acc866d-83a7-40c1-8f69-704fa87b63a6",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 231843000,
+            "speedOverGround": 11.9,
+            "highAccuracy": false,
+            "longitude": 17.463993333333335,
+            "latitude": 60.78879666666667,
+            "courseOverGround": 186.1,
+            "received": "2020-01-20T23:48:39.906Z",
+            "trueHeading": 187,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-20T23:48:39.906Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "EKEN",
+        "imo": 9263564,
+        "callsign": "OZ2129",
+        "offsets": {
+            "bow": 73,
+            "stern": 16,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 3.9,
+        "destination": "GAVLE",
+        "eta": "2020-01-21T01:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

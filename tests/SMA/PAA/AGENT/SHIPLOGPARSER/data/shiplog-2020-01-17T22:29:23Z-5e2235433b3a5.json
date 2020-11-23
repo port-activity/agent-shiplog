@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "8aa7211a-5356-4402-993c-26573d08c8d1",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 235009040,
+            "speedOverGround": 10.7,
+            "highAccuracy": true,
+            "longitude": 17.60186,
+            "latitude": 60.71051,
+            "courseOverGround": 91.7,
+            "received": "2020-01-17T22:29:19.816Z",
+            "trueHeading": 95,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 8,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T18:55:19.102Z",
+        "departure": {
+            "departure": "2020-01-17T22:29:19.816Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ESTLAND",
+        "imo": 9247314,
+        "callsign": "MJFC3",
+        "offsets": {
+            "bow": 81,
+            "stern": 18,
+            "port": 13,
+            "starboard": 4
+        },
+        "draught": 4.1,
+        "destination": "FARJSUNDET",
+        "eta": "2020-01-18T10:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

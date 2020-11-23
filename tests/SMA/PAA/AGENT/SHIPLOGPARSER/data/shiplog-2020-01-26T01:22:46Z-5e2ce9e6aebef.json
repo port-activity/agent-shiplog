@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "c13dc2a0-fb4a-42fb-8d9f-ce331ec954e5",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 236223000,
+            "speedOverGround": 10.4,
+            "highAccuracy": false,
+            "longitude": 17.601688333333335,
+            "latitude": 60.71041833333334,
+            "courseOverGround": 90.3,
+            "received": "2020-01-26T01:22:23.284Z",
+            "trueHeading": 93,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-24T21:21:29.101Z",
+        "departure": {
+            "departure": "2020-01-26T01:22:23.284Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LIVLAND",
+        "imo": 9237034,
+        "callsign": "ZDGA5",
+        "offsets": {
+            "bow": 80,
+            "stern": 20,
+            "port": 12,
+            "starboard": 4
+        },
+        "draught": 4.3,
+        "destination": "GODBY",
+        "eta": "2020-01-26T09:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

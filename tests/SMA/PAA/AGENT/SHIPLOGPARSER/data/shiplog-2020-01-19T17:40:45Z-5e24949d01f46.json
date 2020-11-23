@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "a8865b38-f243-43d7-9890-d41f9d99f7ce",
+        "parent": null,
+        "template": 3016,
+        "vessel": {
+            "mmsi": 259896000,
+            "speedOverGround": 0.8,
+            "highAccuracy": false,
+            "longitude": 17.211863333333334,
+            "latitude": 60.689166666666665,
+            "courseOverGround": 83.3,
+            "received": "2020-01-19T17:33:11.373Z",
+            "trueHeading": 101,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T21:30:42.642Z",
+        "departure": {
+            "departure": "2020-01-19T17:33:11.373Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "DORIS",
+        "imo": 9172210,
+        "callsign": "LAGP5",
+        "offsets": {
+            "bow": 117,
+            "stern": 23,
+            "port": 8,
+            "starboard": 14
+        },
+        "draught": 6.4,
+        "destination": "SE GVX>LT KLS",
+        "eta": "2020-01-20T21:30:00Z"
+    },
+    "area": {
+        "id": 2392,
+        "name": "1 Kemikalie kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

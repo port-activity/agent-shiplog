@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "d0aaaaf6-5206-4853-b37e-1f4ffb05ebf1",
+        "parent": null,
+        "template": 3031,
+        "vessel": {
+            "mmsi": 265737860,
+            "speedOverGround": 0.1,
+            "highAccuracy": false,
+            "longitude": 17.210868333333334,
+            "latitude": 60.689523333333334,
+            "courseOverGround": 259.1,
+            "received": "2020-01-27T06:32:36.440Z",
+            "trueHeading": 97,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T06:32:36.440Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "GRIZZLY AF GEFLE",
+        "imo": 9148764,
+        "callsign": "SCPB",
+        "offsets": {
+            "bow": 12,
+            "stern": 20,
+            "port": 4,
+            "starboard": 6
+        },
+        "draught": 4.6,
+        "destination": "HARBOUR TUG CH8",
+        "eta": "2020-03-26T19:00:00Z"
+    },
+    "area": {
+        "id": 2407,
+        "name": "4 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

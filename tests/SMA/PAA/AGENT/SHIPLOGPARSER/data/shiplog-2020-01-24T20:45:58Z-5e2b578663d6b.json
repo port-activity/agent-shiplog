@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "7ba7cd58-30ef-4970-8dca-8b467783fa4e",
+        "parent": "99170639-2121-4d1c-b80c-2eb21be09566",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 212536000,
+            "speedOverGround": 8.1,
+            "highAccuracy": true,
+            "longitude": 17.323919999999998,
+            "latitude": 60.73144833333333,
+            "courseOverGround": 227.8,
+            "received": "2020-01-24T20:44:55.269Z",
+            "trueHeading": 231,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-24T20:44:55.269Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "HALLAND",
+        "imo": 9436238,
+        "callsign": "5BMA2",
+        "offsets": {
+            "bow": 104,
+            "stern": 15,
+            "port": 15,
+            "starboard": 1
+        },
+        "draught": 6.5,
+        "destination": "KARSKAR",
+        "eta": "2020-01-24T18:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

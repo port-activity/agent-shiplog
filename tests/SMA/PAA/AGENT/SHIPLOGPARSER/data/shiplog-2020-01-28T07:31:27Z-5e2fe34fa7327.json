@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "a63e49dd-caec-4623-a9b6-237d47f20bea",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 249803000,
+            "speedOverGround": 10.5,
+            "highAccuracy": false,
+            "longitude": 17.600091666666668,
+            "latitude": 60.70996,
+            "courseOverGround": 265.9,
+            "received": "2020-01-28T07:30:07.523Z",
+            "trueHeading": 263,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-28T07:30:07.523Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "NIKE",
+        "imo": 9431032,
+        "callsign": "9HA2013",
+        "offsets": {
+            "bow": 98,
+            "stern": 24,
+            "port": 10,
+            "starboard": 7
+        },
+        "draught": 6.4,
+        "destination": "GAVLE,SWEDEN",
+        "eta": "2020-01-28T08:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

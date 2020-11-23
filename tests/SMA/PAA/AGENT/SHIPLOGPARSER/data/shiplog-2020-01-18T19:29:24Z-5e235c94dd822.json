@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "fbd9fa68-3f7e-47be-bcf2-154c1b512cb7",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 259896000,
+            "speedOverGround": 9.6,
+            "highAccuracy": false,
+            "longitude": 17.599696666666667,
+            "latitude": 60.71033333333333,
+            "courseOverGround": 270.7,
+            "received": "2020-01-18T19:28:41.717Z",
+            "trueHeading": 270,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T19:28:41.717Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "DORIS",
+        "imo": 9172210,
+        "callsign": "LAGP5",
+        "offsets": {
+            "bow": 117,
+            "stern": 23,
+            "port": 8,
+            "starboard": 14
+        },
+        "draught": 8.5,
+        "destination": "NO ELN>SE GVX",
+        "eta": "2020-01-18T20:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "90edaeb4-3b55-48ab-8973-3fcb05919190",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265512390,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.318271666666664,
+            "latitude": 60.73853666666666,
+            "courseOverGround": 0,
+            "received": "2020-01-14T14:04:03.863Z",
+            "trueHeading": null,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -128,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:13.332Z",
+        "departure": {
+            "departure": "2020-01-14T14:04:03.863Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "PILOT 756 SE",
+        "imo": 0,
+        "callsign": "SLET",
+        "offsets": {
+            "bow": 8,
+            "stern": 8,
+            "port": 3,
+            "starboard": 3
+        },
+        "draught": 2.3,
+        "destination": "",
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

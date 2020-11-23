@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "e7eb2533-80f2-46b2-a9b1-44d13425d298",
+        "parent": null,
+        "template": 3016,
+        "vessel": {
+            "mmsi": 249803000,
+            "speedOverGround": 0.8,
+            "highAccuracy": false,
+            "longitude": 17.212646666666668,
+            "latitude": 60.688991666666666,
+            "courseOverGround": 280.5,
+            "received": "2020-01-28T09:17:08.285Z",
+            "trueHeading": 99,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-28T09:17:08.285Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "NIKE",
+        "imo": 9431032,
+        "callsign": "9HA2013",
+        "offsets": {
+            "bow": 98,
+            "stern": 24,
+            "port": 10,
+            "starboard": 7
+        },
+        "draught": 6.4,
+        "destination": "GAVLE,SWEDEN",
+        "eta": "2020-01-28T08:00:00Z"
+    },
+    "area": {
+        "id": 2392,
+        "name": "1 Kemikalie kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

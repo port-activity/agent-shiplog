@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "295109bb-4939-47d4-91c7-147be1b2c296",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 236223000,
+            "speedOverGround": 4.5,
+            "highAccuracy": false,
+            "longitude": 17.274418333333333,
+            "latitude": 60.686993333333334,
+            "courseOverGround": 12.2,
+            "received": "2020-01-27T23:36:22.904Z",
+            "trueHeading": 12,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T13:51:33.688Z",
+        "departure": {
+            "departure": "2020-01-27T23:36:22.904Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LIVLAND",
+        "imo": 9237034,
+        "callsign": "ZDGA5",
+        "offsets": {
+            "bow": 80,
+            "stern": 20,
+            "port": 12,
+            "starboard": 4
+        },
+        "draught": 4.3,
+        "destination": "MERSRAGS",
+        "eta": "2020-01-29T05:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

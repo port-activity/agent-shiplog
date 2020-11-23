@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "a3435a80-c260-465a-8c7d-a6dbc5e72e4e",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 244279000,
+            "speedOverGround": 13.1,
+            "highAccuracy": false,
+            "longitude": 17.600226666666668,
+            "latitude": 60.710355,
+            "courseOverGround": 263.8,
+            "received": "2020-01-15T05:44:46.765Z",
+            "trueHeading": 267,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 16,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-15T05:44:46.765Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESPOIR",
+        "imo": 9491472,
+        "callsign": "PCDQ",
+        "offsets": {
+            "bow": 155,
+            "stern": 13,
+            "port": 8,
+            "starboard": 18
+        },
+        "draught": 8.9,
+        "destination": "GAVLE",
+        "eta": "2020-01-15T06:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

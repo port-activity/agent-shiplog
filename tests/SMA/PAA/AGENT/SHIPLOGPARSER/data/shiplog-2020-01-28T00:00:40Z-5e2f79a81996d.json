@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "d08e6296-43fd-4d57-a8bb-686f801d0f2b",
+        "parent": "cdce73b2-3e51-43bb-8e41-5534bc124668",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 236223000,
+            "speedOverGround": 9.5,
+            "highAccuracy": false,
+            "longitude": 17.323731666666667,
+            "latitude": 60.73162333333333,
+            "courseOverGround": 49.2,
+            "received": "2020-01-28T00:00:13.216Z",
+            "trueHeading": 48,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -5,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T13:14:42.811Z",
+        "departure": {
+            "departure": "2020-01-28T00:00:13.216Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LIVLAND",
+        "imo": 9237034,
+        "callsign": "ZDGA5",
+        "offsets": {
+            "bow": 80,
+            "stern": 20,
+            "port": 12,
+            "starboard": 4
+        },
+        "draught": 4.3,
+        "destination": "MERSRAGS",
+        "eta": "2020-01-29T05:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

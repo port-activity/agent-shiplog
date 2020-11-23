@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "7c043923-a2b8-4b02-9b0c-63ddfdfd5f3b",
+        "parent": "b54e0574-a39d-4c5f-b4e7-13bdbedb7990",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265739270,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.230394999999998,
+            "latitude": 60.696146666666664,
+            "courseOverGround": 360,
+            "received": "2020-01-14T14:11:48.944Z",
+            "trueHeading": 250,
+            "navigationalStatus": "restricted_maneuverability",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:18.740Z",
+        "departure": {
+            "departure": "2020-01-14T14:11:48.944Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "TUG BEAVER",
+        "imo": 8414166,
+        "callsign": "SDLQ",
+        "offsets": {
+            "bow": 10,
+            "stern": 19,
+            "port": 2,
+            "starboard": 7
+        },
+        "draught": 4.8,
+        "destination": "GAVLE",
+        "eta": "2020-10-14T13:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

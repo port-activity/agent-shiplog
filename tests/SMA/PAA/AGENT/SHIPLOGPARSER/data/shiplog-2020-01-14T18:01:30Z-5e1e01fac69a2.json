@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "e1cf49ee-c14d-4098-80e3-3a7c17200a58",
+        "parent": "7f8f0df8-6124-490d-9943-555fc277e569",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 235012220,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.274,
+            "latitude": 60.686,
+            "courseOverGround": 156,
+            "received": "2020-01-14T13:15:53.127Z",
+            "trueHeading": 192,
+            "navigationalStatus": "moored",
+            "rateOfTurn": -2,
+            "maneuvreIndicator": null,
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T05:27:17.345Z",
+        "departure": {
+            "departure": "2020-01-14T13:15:53.127Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "FEMBRIA",
+        "imo": 9350771,
+        "callsign": "MPTX6",
+        "offsets": {
+            "bow": 99,
+            "stern": 18,
+            "port": 12,
+            "starboard": 5
+        },
+        "draught": 5.1,
+        "destination": "KARSKAER",
+        "eta": "2020-01-14T05:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

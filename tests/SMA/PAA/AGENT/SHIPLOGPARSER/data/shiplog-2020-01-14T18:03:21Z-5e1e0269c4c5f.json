@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "c43b4e8e-3008-4785-97e1-b2b821832fe0",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 265710830,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.2302,
+            "latitude": 60.69631833333334,
+            "courseOverGround": 0,
+            "received": "2020-01-14T08:45:36.094Z",
+            "trueHeading": 254,
+            "navigationalStatus": "undefined",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T19:09:06.040Z",
+        "departure": {
+            "departure": "2020-01-14T08:45:36.094Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "P10",
+        "imo": 0,
+        "callsign": "SCDV",
+        "offsets": {
+            "bow": 17,
+            "stern": 17,
+            "port": 3,
+            "starboard": 9
+        },
+        "draught": 0,
+        "destination": "",
+        "eta": null
+    },
+    "area": {
+        "id": 2404,
+        "name": "27 Energi kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

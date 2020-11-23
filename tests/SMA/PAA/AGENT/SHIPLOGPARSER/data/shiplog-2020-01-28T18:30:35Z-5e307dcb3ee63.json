@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "1b277e57-f432-4dbd-923b-e52b348706cc",
+        "parent": "3003d5b4-34e5-4a61-ba8d-f392ea86cbca",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 249803000,
+            "speedOverGround": 11.3,
+            "highAccuracy": false,
+            "longitude": 17.324265,
+            "latitude": 60.73173833333333,
+            "courseOverGround": 52.5,
+            "received": "2020-01-28T18:29:54.983Z",
+            "trueHeading": 53,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-28T09:15:46.795Z",
+        "departure": {
+            "departure": "2020-01-28T18:29:54.983Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "NIKE",
+        "imo": 9431032,
+        "callsign": "9HA2013",
+        "offsets": {
+            "bow": 98,
+            "stern": 24,
+            "port": 10,
+            "starboard": 7
+        },
+        "draught": 5.5,
+        "destination": "SKUTSKAR",
+        "eta": "2020-01-28T20:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

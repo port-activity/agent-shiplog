@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "f5c64396-1a28-45a9-b2cc-89931dfc1e1a",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 235008920,
+            "speedOverGround": 4.9,
+            "highAccuracy": true,
+            "longitude": 17.275191666666668,
+            "latitude": 60.68683166666666,
+            "courseOverGround": 9.4,
+            "received": "2020-01-20T16:04:55.140Z",
+            "trueHeading": 7,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-20T00:14:35.931Z",
+        "departure": {
+            "departure": "2020-01-20T16:04:55.140Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "OSTERBOTTEN",
+        "imo": 9247120,
+        "callsign": "MHYJ3",
+        "offsets": {
+            "bow": 89,
+            "stern": 21,
+            "port": 8,
+            "starboard": 7
+        },
+        "draught": 4.5,
+        "destination": "KEMI",
+        "eta": "2020-01-22T06:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

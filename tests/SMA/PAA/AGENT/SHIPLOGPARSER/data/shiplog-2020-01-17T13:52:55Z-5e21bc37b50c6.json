@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "7000be7a-4b4f-4c1a-bfa5-00230ace3f34",
+        "parent": null,
+        "template": 3030,
+        "vessel": {
+            "mmsi": 265819000,
+            "speedOverGround": 0.9,
+            "highAccuracy": true,
+            "longitude": 17.235873333333334,
+            "latitude": 60.69028333333333,
+            "courseOverGround": 104.2,
+            "received": "2020-01-17T13:50:05.457Z",
+            "trueHeading": 100,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T13:50:05.457Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "KBV 202",
+        "imo": 0,
+        "callsign": "SMLA",
+        "offsets": {
+            "bow": 22,
+            "stern": 30,
+            "port": 4,
+            "starboard": 4
+        },
+        "draught": 3.2,
+        "destination": "N\/A",
+        "eta": null
+    },
+    "area": {
+        "id": 2406,
+        "name": "302-303 Granudden"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "6e29a37d-cdaf-485c-876d-457cc785072d",
+        "parent": "b8abb4f9-1f81-492b-a70d-58bb5aeb2d71",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 235008920,
+            "speedOverGround": 7.3,
+            "highAccuracy": true,
+            "longitude": 17.323410000000003,
+            "latitude": 60.73130666666667,
+            "courseOverGround": 231.8,
+            "received": "2020-01-19T23:32:15.605Z",
+            "trueHeading": 230,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T23:32:15.605Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "OSTERBOTTEN",
+        "imo": 9247120,
+        "callsign": "MHYJ3",
+        "offsets": {
+            "bow": 89,
+            "stern": 21,
+            "port": 8,
+            "starboard": 7
+        },
+        "draught": 6.5,
+        "destination": "KARSKAER",
+        "eta": "2020-01-19T23:55:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

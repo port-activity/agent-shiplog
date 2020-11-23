@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "e9c99d50-f24e-4718-89f3-b2e478215feb",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 231815000,
+            "speedOverGround": 12.1,
+            "highAccuracy": false,
+            "longitude": 17.494066666666665,
+            "latitude": 60.78613333333333,
+            "courseOverGround": 129.6,
+            "received": "2020-01-17T13:50:20.472Z",
+            "trueHeading": 130,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T13:50:20.472Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ICE CRYSTAL",
+        "imo": 9818321,
+        "callsign": "OZ2179",
+        "offsets": {
+            "bow": 93,
+            "stern": 12,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 4.3,
+        "destination": "VYBORG",
+        "eta": "2020-01-19T08:30:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

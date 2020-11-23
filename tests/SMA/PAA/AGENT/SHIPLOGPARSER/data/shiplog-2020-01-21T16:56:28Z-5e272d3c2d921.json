@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "6ebaa3fb-9df5-4c5e-aa39-faa1b0280180",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 256600000,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.221611666666668,
+            "latitude": 60.69367333333333,
+            "courseOverGround": 0.1,
+            "received": "2020-01-21T16:53:23.773Z",
+            "trueHeading": 162,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T16:53:23.773Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "JETT",
+        "imo": 9358890,
+        "callsign": "9HYK8",
+        "offsets": {
+            "bow": 148,
+            "stern": 13,
+            "port": 19,
+            "starboard": 6
+        },
+        "draught": 8.7,
+        "destination": "GAVLE",
+        "eta": "2020-01-21T07:00:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

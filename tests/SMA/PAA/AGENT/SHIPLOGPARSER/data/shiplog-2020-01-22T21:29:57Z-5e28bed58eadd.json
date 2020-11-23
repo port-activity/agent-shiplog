@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "8913eac6-7bf2-40cb-b8b0-af9977abab97",
+        "parent": "cfb6cc20-9a80-42e5-8ecb-d91e0b651863",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 231843000,
+            "speedOverGround": 10.6,
+            "highAccuracy": false,
+            "longitude": 17.323503333333335,
+            "latitude": 60.731445,
+            "courseOverGround": 51.4,
+            "received": "2020-01-22T21:29:29.045Z",
+            "trueHeading": 51,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T19:26:23.616Z",
+        "departure": {
+            "departure": "2020-01-22T21:29:29.045Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "EKEN",
+        "imo": 9263564,
+        "callsign": "OZ2129",
+        "offsets": {
+            "bow": 73,
+            "stern": 16,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 5.9,
+        "destination": "HAMBURG",
+        "eta": "2020-01-25T22:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

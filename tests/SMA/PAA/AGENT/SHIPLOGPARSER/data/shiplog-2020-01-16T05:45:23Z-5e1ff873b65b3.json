@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "a3435a80-c260-465a-8c7d-a6dbc5e72e4e",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 244279000,
+            "speedOverGround": 11.3,
+            "highAccuracy": false,
+            "longitude": 17.59828333333333,
+            "latitude": 60.71024,
+            "courseOverGround": 93.6,
+            "received": "2020-01-16T05:44:52.318Z",
+            "trueHeading": 91,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -14,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-15T05:44:46.765Z",
+        "departure": {
+            "departure": "2020-01-16T05:44:52.318Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ESPOIR",
+        "imo": 9491472,
+        "callsign": "PCDQ",
+        "offsets": {
+            "bow": 155,
+            "stern": 13,
+            "port": 8,
+            "starboard": 18
+        },
+        "draught": 10,
+        "destination": "ANTWERP",
+        "eta": "2020-01-21T06:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

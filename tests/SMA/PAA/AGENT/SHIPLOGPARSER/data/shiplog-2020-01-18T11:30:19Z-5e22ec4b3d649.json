@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "fbe5fb11-1e4d-4a88-947f-1662512933ec",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 255806191,
+            "speedOverGround": 15.6,
+            "highAccuracy": true,
+            "longitude": 17.600231666666666,
+            "latitude": 60.710411666666666,
+            "courseOverGround": 92,
+            "received": "2020-01-18T11:30:00.963Z",
+            "trueHeading": 92,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T02:38:53.125Z",
+        "departure": {
+            "departure": "2020-01-18T11:30:00.963Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "HEINRICH EHLER",
+        "imo": 9372200,
+        "callsign": "CQAJ5",
+        "offsets": {
+            "bow": 157,
+            "stern": 9,
+            "port": 22,
+            "starboard": 5
+        },
+        "draught": 9.3,
+        "destination": "DE HAM",
+        "eta": "2020-01-20T20:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

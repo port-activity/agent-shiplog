@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "85428835-6623-4248-a393-544827733fb3",
+        "parent": "19e3583f-659a-430f-b208-0575b4b4e6f5",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 230025680,
+            "speedOverGround": 102.3,
+            "highAccuracy": false,
+            "longitude": 17.289031666666666,
+            "latitude": 60.72759,
+            "courseOverGround": 360,
+            "received": "2020-01-14T13:21:38.499Z",
+            "trueHeading": 187,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:40.084Z",
+        "departure": {
+            "departure": "2020-01-14T13:21:38.499Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "HUOVARI",
+        "imo": 0,
+        "callsign": "OJOD",
+        "offsets": {
+            "bow": 14,
+            "stern": 3,
+            "port": 3,
+            "starboard": 3
+        },
+        "draught": 3,
+        "destination": "ENGESBERG",
+        "eta": "2020-01-22T00:30:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

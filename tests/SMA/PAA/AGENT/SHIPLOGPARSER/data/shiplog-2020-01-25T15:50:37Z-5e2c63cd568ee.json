@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "2c7e73ff-e6ea-4e3c-a818-4ebf05ed8b1e",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 266465000,
+            "speedOverGround": 13.2,
+            "highAccuracy": true,
+            "longitude": 17.600436666666667,
+            "latitude": 60.71010833333333,
+            "courseOverGround": 273.2,
+            "received": "2020-01-25T15:49:43.772Z",
+            "trueHeading": 271,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 5,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-25T15:49:43.772Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "MERCURIUS",
+        "imo": 9816531,
+        "callsign": "SBDW",
+        "offsets": {
+            "bow": 93,
+            "stern": 27,
+            "port": 3,
+            "starboard": 16
+        },
+        "draught": 7.5,
+        "destination": "GAVLE",
+        "eta": "2020-01-25T16:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

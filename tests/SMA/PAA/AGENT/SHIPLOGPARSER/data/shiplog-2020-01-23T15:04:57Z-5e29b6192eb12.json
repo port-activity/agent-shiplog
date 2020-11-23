@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "708283ec-2e97-4fe7-8786-fdaed22cdafe",
+        "parent": null,
+        "template": 3022,
+        "vessel": {
+            "mmsi": 212369000,
+            "speedOverGround": 2.7,
+            "highAccuracy": false,
+            "longitude": 17.21932,
+            "latitude": 60.693909999999995,
+            "courseOverGround": 157.3,
+            "received": "2020-01-23T15:03:28.569Z",
+            "trueHeading": 154,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T13:12:25.120Z",
+        "departure": {
+            "departure": "2020-01-23T15:03:28.569Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LOTTA VG",
+        "imo": 9155975,
+        "callsign": "5BDP4",
+        "offsets": {
+            "bow": 79,
+            "stern": 11,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 6.2,
+        "destination": "FIKOK",
+        "eta": "2020-01-25T10:00:00Z"
+    },
+    "area": {
+        "id": 2398,
+        "name": "16 Slig kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

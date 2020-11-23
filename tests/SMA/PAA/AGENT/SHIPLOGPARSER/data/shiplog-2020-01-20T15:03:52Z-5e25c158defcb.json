@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "f8328776-696c-497a-bdb4-d40b96177cfd",
+        "parent": null,
+        "template": 3033,
+        "vessel": {
+            "mmsi": 212369000,
+            "speedOverGround": 0.3,
+            "highAccuracy": false,
+            "longitude": 17.214121666666664,
+            "latitude": 60.68948833333333,
+            "courseOverGround": 323.2,
+            "received": "2020-01-20T15:00:51.250Z",
+            "trueHeading": 107,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-20T15:00:51.250Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "LOTTA VG",
+        "imo": 9155975,
+        "callsign": "5BDP4",
+        "offsets": {
+            "bow": 79,
+            "stern": 11,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 6,
+        "destination": "SEGVX",
+        "eta": "2020-01-18T06:00:00Z"
+    },
+    "area": {
+        "id": 2409,
+        "name": "6 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "9c90e6e5-30ef-4b67-9887-82bf0fdc0a01",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 266466000,
+            "speedOverGround": 3,
+            "highAccuracy": true,
+            "longitude": 17.235666666666667,
+            "latitude": 60.69316666666667,
+            "courseOverGround": 117,
+            "received": "2020-01-27T00:50:38.963Z",
+            "trueHeading": 83,
+            "navigationalStatus": "moored",
+            "rateOfTurn": -127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T07:12:51.705Z",
+        "departure": {
+            "departure": "2020-01-27T00:50:38.963Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ASTREA",
+        "imo": 9488839,
+        "callsign": "SBDA",
+        "offsets": {
+            "bow": 104,
+            "stern": 25,
+            "port": 8,
+            "starboard": 12
+        },
+        "draught": 5.6,
+        "destination": "KLAIPEDA",
+        "eta": "2020-01-26T06:00:00Z"
+    },
+    "area": {
+        "id": 2404,
+        "name": "27 Energi kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

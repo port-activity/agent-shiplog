@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "9c90e6e5-30ef-4b67-9887-82bf0fdc0a01",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 266466000,
+            "speedOverGround": 1.6,
+            "highAccuracy": true,
+            "longitude": 17.234666666666666,
+            "latitude": 60.69383333333334,
+            "courseOverGround": 332,
+            "received": "2020-01-26T07:12:51.705Z",
+            "trueHeading": 151,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T07:12:51.705Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ASTREA",
+        "imo": 9488839,
+        "callsign": "SBDA",
+        "offsets": {
+            "bow": 104,
+            "stern": 25,
+            "port": 8,
+            "starboard": 12
+        },
+        "draught": 8.1,
+        "destination": "GAVLE",
+        "eta": "2020-01-26T06:00:00Z"
+    },
+    "area": {
+        "id": 2404,
+        "name": "27 Energi kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

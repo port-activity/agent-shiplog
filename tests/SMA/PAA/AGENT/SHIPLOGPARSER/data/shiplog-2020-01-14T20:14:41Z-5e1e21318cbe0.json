@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "31435425-e039-4c43-9eb1-50dcc7960c93",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265606660,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.177296666666667,
+            "latitude": 60.67989166666667,
+            "courseOverGround": 360,
+            "received": "2020-01-14T15:34:43.537Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:42.478Z",
+        "departure": {
+            "departure": "2020-01-14T15:34:43.537Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "KARL ASTRID",
+        "imo": null,
+        "callsign": "SKQY",
+        "offsets": {
+            "bow": 10,
+            "stern": 20,
+            "port": 4,
+            "starboard": 4
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

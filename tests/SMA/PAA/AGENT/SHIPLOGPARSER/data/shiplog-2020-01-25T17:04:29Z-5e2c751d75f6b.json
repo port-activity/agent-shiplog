@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "8318c7b7-f785-404b-855d-418db12d7c7a",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 266465000,
+            "speedOverGround": 2.4,
+            "highAccuracy": true,
+            "longitude": 17.234523333333335,
+            "latitude": 60.69372833333333,
+            "courseOverGround": 343.6,
+            "received": "2020-01-25T16:59:33.277Z",
+            "trueHeading": 160,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -7,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-25T16:59:33.277Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "MERCURIUS",
+        "imo": 9816531,
+        "callsign": "SBDW",
+        "offsets": {
+            "bow": 93,
+            "stern": 27,
+            "port": 3,
+            "starboard": 16
+        },
+        "draught": 7.5,
+        "destination": "GAVLE",
+        "eta": "2020-01-25T16:00:00Z"
+    },
+    "area": {
+        "id": 2404,
+        "name": "27 Energi kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

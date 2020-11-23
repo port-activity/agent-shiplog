@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "d7037ddd-ca2f-4767-a1f6-87d6fcd5180f",
+        "parent": "9acc866d-83a7-40c1-8f69-704fa87b63a6",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 231843000,
+            "speedOverGround": 12.1,
+            "highAccuracy": false,
+            "longitude": 17.322956666666666,
+            "latitude": 60.73106833333333,
+            "courseOverGround": 230.8,
+            "received": "2020-01-21T00:18:00.184Z",
+            "trueHeading": 230,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T00:18:00.184Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "EKEN",
+        "imo": 9263564,
+        "callsign": "OZ2129",
+        "offsets": {
+            "bow": 73,
+            "stern": 16,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 3.9,
+        "destination": "GAVLE",
+        "eta": "2020-01-21T01:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

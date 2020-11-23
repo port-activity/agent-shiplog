@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "e2fcf8d1-754a-44e2-b1d2-d5a511d68334",
+        "parent": "1c92f49b-e464-4601-823f-fbf26247cd2d",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265819000,
+            "speedOverGround": 5.1,
+            "highAccuracy": true,
+            "longitude": 17.211085,
+            "latitude": 60.68653,
+            "courseOverGround": 239.1,
+            "received": "2020-01-19T20:23:34.589Z",
+            "trueHeading": 237,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T19:50:09.556Z",
+        "departure": {
+            "departure": "2020-01-19T20:23:34.589Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "KBV 202",
+        "imo": 0,
+        "callsign": "SMLA",
+        "offsets": {
+            "bow": 22,
+            "stern": 30,
+            "port": 4,
+            "starboard": 4
+        },
+        "draught": 3.2,
+        "destination": "N\/A",
+        "eta": null
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

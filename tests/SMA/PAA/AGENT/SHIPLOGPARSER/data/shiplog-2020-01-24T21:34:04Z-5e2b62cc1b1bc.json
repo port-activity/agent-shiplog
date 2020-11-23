@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "954197f0-bf0a-4dc5-ae3c-4eaabfd9f886",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 212536000,
+            "speedOverGround": 1.5,
+            "highAccuracy": true,
+            "longitude": 17.274863333333332,
+            "latitude": 60.68644666666667,
+            "courseOverGround": 189.5,
+            "received": "2020-01-24T21:27:23.770Z",
+            "trueHeading": 5,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-24T21:27:23.770Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "HALLAND",
+        "imo": 9436238,
+        "callsign": "5BMA2",
+        "offsets": {
+            "bow": 104,
+            "stern": 15,
+            "port": 15,
+            "starboard": 1
+        },
+        "draught": 6.5,
+        "destination": "KARSKAR",
+        "eta": "2020-01-24T18:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

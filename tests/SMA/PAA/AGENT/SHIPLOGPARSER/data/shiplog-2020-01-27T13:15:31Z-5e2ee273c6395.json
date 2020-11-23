@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "d08e6296-43fd-4d57-a8bb-686f801d0f2b",
+        "parent": "cdce73b2-3e51-43bb-8e41-5534bc124668",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 236223000,
+            "speedOverGround": 9,
+            "highAccuracy": false,
+            "longitude": 17.323676666666664,
+            "latitude": 60.73169666666667,
+            "courseOverGround": 227.7,
+            "received": "2020-01-27T13:14:42.811Z",
+            "trueHeading": 228,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T13:14:42.811Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "LIVLAND",
+        "imo": 9237034,
+        "callsign": "ZDGA5",
+        "offsets": {
+            "bow": 80,
+            "stern": 20,
+            "port": 12,
+            "starboard": 4
+        },
+        "draught": 4.8,
+        "destination": "KARSKAER",
+        "eta": "2020-01-27T13:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

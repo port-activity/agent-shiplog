@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "68b009a1-087a-4365-a28d-3ff7dbd35ce8",
+        "parent": "fd57f131-33f1-4b95-ad5f-82920abcf616",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 636091854,
+            "speedOverGround": 7.8,
+            "highAccuracy": true,
+            "longitude": 17.32401666666667,
+            "latitude": 60.731555,
+            "courseOverGround": 230.9,
+            "received": "2020-01-22T06:00:19.913Z",
+            "trueHeading": 233,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -2,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T06:00:19.913Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "HELUAN",
+        "imo": 9358905,
+        "callsign": "A8TT2",
+        "offsets": {
+            "bow": 146,
+            "stern": 15,
+            "port": 20,
+            "starboard": 5
+        },
+        "draught": 9,
+        "destination": "GAVLE",
+        "eta": "2020-01-22T05:30:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

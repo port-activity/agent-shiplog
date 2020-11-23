@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "087482e1-304c-4064-980f-6fb88ccab83a",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 235009040,
+            "speedOverGround": 9.3,
+            "highAccuracy": true,
+            "longitude": 17.600981666666666,
+            "latitude": 60.71064833333333,
+            "courseOverGround": 274.6,
+            "received": "2020-01-15T09:25:00.903Z",
+            "trueHeading": 270,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 11,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-15T09:25:00.903Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESTLAND",
+        "imo": 9247314,
+        "callsign": "MJFC3",
+        "offsets": {
+            "bow": 81,
+            "stern": 18,
+            "port": 13,
+            "starboard": 4
+        },
+        "draught": 5.3,
+        "destination": "KARSKAER",
+        "eta": "2020-01-15T10:45:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

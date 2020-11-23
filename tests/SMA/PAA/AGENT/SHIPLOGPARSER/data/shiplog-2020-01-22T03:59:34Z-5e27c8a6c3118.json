@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "53d6d866-8092-4de2-b43c-bc5c2696cfdb",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 256600000,
+            "speedOverGround": 16.2,
+            "highAccuracy": true,
+            "longitude": 17.59881,
+            "latitude": 60.710073333333334,
+            "courseOverGround": 94.8,
+            "received": "2020-01-22T03:59:09.193Z",
+            "trueHeading": 95,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -12,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T16:53:23.773Z",
+        "departure": {
+            "departure": "2020-01-22T03:59:09.193Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "JETT",
+        "imo": 9358890,
+        "callsign": "9HYK8",
+        "offsets": {
+            "bow": 148,
+            "stern": 13,
+            "port": 19,
+            "starboard": 6
+        },
+        "draught": 9.4,
+        "destination": "ANTWERP",
+        "eta": "2020-01-26T22:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

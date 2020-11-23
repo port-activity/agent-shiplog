@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "4873154a-5557-4a5b-b99d-1845c32463d1",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 244279000,
+            "speedOverGround": 1.1,
+            "highAccuracy": false,
+            "longitude": 17.221895,
+            "latitude": 60.69284833333334,
+            "courseOverGround": 349,
+            "received": "2020-01-15T07:18:34.948Z",
+            "trueHeading": 160,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -9,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-15T07:18:34.948Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESPOIR",
+        "imo": 9491472,
+        "callsign": "PCDQ",
+        "offsets": {
+            "bow": 155,
+            "stern": 13,
+            "port": 8,
+            "starboard": 18
+        },
+        "draught": 8.9,
+        "destination": "GAVLE",
+        "eta": "2020-01-15T06:00:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

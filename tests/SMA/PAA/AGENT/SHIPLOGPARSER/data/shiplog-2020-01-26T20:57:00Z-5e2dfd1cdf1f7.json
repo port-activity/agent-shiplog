@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "019fabde-507a-4667-a84f-3f97d8b57124",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 245451000,
+            "speedOverGround": 11,
+            "highAccuracy": false,
+            "longitude": 17.6,
+            "latitude": 60.71066666666666,
+            "courseOverGround": 270,
+            "received": "2020-01-26T20:56:12.451Z",
+            "trueHeading": 271,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 11,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T20:56:12.451Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "MARJA",
+        "imo": 9113721,
+        "callsign": "PHBB",
+        "offsets": {
+            "bow": 78,
+            "stern": 22,
+            "port": 16,
+            "starboard": 2
+        },
+        "draught": 5.6,
+        "destination": "SEGVX",
+        "eta": "2020-01-26T23:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

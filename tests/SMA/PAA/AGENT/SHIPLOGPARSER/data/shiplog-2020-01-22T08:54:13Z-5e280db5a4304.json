@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "be778b65-efe3-4ec2-a02f-366635e926db",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 245930000,
+            "speedOverGround": 10.7,
+            "highAccuracy": false,
+            "longitude": 17.61116666666667,
+            "latitude": 60.709666666666664,
+            "courseOverGround": 89,
+            "received": "2020-01-22T08:54:11.371Z",
+            "trueHeading": 87,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T05:38:33.698Z",
+        "departure": {
+            "departure": "2020-01-22T08:54:11.371Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "VANCOUVERBORG",
+        "imo": 9213741,
+        "callsign": "PBCF",
+        "offsets": {
+            "bow": 122,
+            "stern": 10,
+            "port": 7,
+            "starboard": 9
+        },
+        "draught": 4.9,
+        "destination": "FIHEL",
+        "eta": "2020-01-23T11:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

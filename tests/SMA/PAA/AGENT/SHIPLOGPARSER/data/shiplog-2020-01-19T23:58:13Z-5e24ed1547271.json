@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "3dd29ae3-8dbf-4d62-b767-c70129df9a35",
+        "parent": "a20a320b-e134-40e5-9e00-395d2d01959d",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 235009040,
+            "speedOverGround": 7.7,
+            "highAccuracy": true,
+            "longitude": 17.324313333333336,
+            "latitude": 60.73163833333333,
+            "courseOverGround": 51.4,
+            "received": "2020-01-19T23:56:41.363Z",
+            "trueHeading": 50,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T10:46:52.431Z",
+        "departure": {
+            "departure": "2020-01-19T23:56:41.363Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ESTLAND",
+        "imo": 9247314,
+        "callsign": "MJFC3",
+        "offsets": {
+            "bow": 81,
+            "stern": 18,
+            "port": 13,
+            "starboard": 4
+        },
+        "draught": 4.1,
+        "destination": "KUNDA",
+        "eta": "2020-01-21T05:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

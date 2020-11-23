@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "9383863e-321b-4075-aade-f332a2d09dd1",
+        "parent": "469d3405-aeee-456e-bea7-6d93d755a3ef",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 266466000,
+            "speedOverGround": 8.8,
+            "highAccuracy": true,
+            "longitude": 17.323333333333334,
+            "latitude": 60.73166666666667,
+            "courseOverGround": 232,
+            "received": "2020-01-26T06:34:41.136Z",
+            "trueHeading": 232,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T06:34:41.136Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ASTREA",
+        "imo": 9488839,
+        "callsign": "SBDA",
+        "offsets": {
+            "bow": 104,
+            "stern": 25,
+            "port": 8,
+            "starboard": 12
+        },
+        "draught": 8.1,
+        "destination": "GAVLE",
+        "eta": "2020-01-26T06:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

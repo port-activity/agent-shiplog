@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "70968637-8113-498a-b40f-d8c75d2da790",
+        "parent": "46dd7bc3-0077-43e0-9ecd-47910456cf07",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 212209000,
+            "speedOverGround": 10.5,
+            "highAccuracy": false,
+            "longitude": 17.324446666666667,
+            "latitude": 60.73198166666667,
+            "courseOverGround": 47,
+            "received": "2020-01-25T06:39:15.176Z",
+            "trueHeading": 47,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T09:29:09.854Z",
+        "departure": {
+            "departure": "2020-01-25T06:39:15.176Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "CEMSEA III",
+        "imo": 9195925,
+        "callsign": "5BZA3",
+        "offsets": {
+            "bow": 81,
+            "stern": 14,
+            "port": 3,
+            "starboard": 10
+        },
+        "draught": 4.1,
+        "destination": "LIEPAJA",
+        "eta": "2020-01-26T13:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

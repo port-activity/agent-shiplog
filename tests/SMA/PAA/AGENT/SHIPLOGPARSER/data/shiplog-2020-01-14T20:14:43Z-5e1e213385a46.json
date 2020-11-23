@@ -1,0 +1,48 @@
+{
+    "portCall": {
+        "id": "57260c97-38ef-4687-9850-7313d0332e1d",
+        "parent": "5ca403a2-7e5d-441d-ba44-4c9d769baeb9",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265710830,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.230169999999998,
+            "latitude": 60.69623833333333,
+            "courseOverGround": 0,
+            "received": "2020-01-13T07:20:15.092Z",
+            "trueHeading": 250,
+            "navigationalStatus": "undefined",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:15.092Z",
+        "departure": {
+            "type": "reverted_signalloss"
+        }
+    },
+    "vesselMeta": {
+        "name": "P10",
+        "imo": 0,
+        "callsign": "SCDV",
+        "offsets": {
+            "bow": 17,
+            "stern": 17,
+            "port": 3,
+            "starboard": 9
+        },
+        "draught": 0,
+        "destination": "",
+        "eta": null
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

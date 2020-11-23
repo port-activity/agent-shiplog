@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "39653a22-dacf-4c7f-b7f0-8664235ec3dd",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265606550,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.18424333333333,
+            "latitude": 60.67983666666667,
+            "courseOverGround": 271.3,
+            "received": "2020-01-14T14:19:05.970Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:22:22.480Z",
+        "departure": {
+            "departure": "2020-01-14T14:19:05.970Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "SVK223",
+        "imo": null,
+        "callsign": "SMNQ",
+        "offsets": {
+            "bow": 6,
+            "stern": 15,
+            "port": 2,
+            "starboard": 2
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "78375fc8-813e-4435-8e4a-38eed0c4c618",
+        "parent": "272e161b-0a05-46d3-9094-6e0a09923ecb",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 244264000,
+            "speedOverGround": 9.1,
+            "highAccuracy": false,
+            "longitude": 17.324211666666667,
+            "latitude": 60.731625,
+            "courseOverGround": 233,
+            "received": "2020-01-29T07:30:23.834Z",
+            "trueHeading": 233,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-29T07:30:23.834Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ICE STAR",
+        "imo": 9142631,
+        "callsign": "PCAE",
+        "offsets": {
+            "bow": 81,
+            "stern": 8,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 6.1,
+        "destination": "GAVLE",
+        "eta": "2020-01-29T11:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

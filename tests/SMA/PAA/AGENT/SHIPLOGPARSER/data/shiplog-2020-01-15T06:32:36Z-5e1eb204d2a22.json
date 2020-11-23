@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "5b77b347-0df1-4729-9f6e-6382595505b6",
+        "parent": "a3435a80-c260-465a-8c7d-a6dbc5e72e4e",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 244279000,
+            "speedOverGround": 8.2,
+            "highAccuracy": false,
+            "longitude": 17.323991666666664,
+            "latitude": 60.731545,
+            "courseOverGround": 230.7,
+            "received": "2020-01-15T06:31:55.189Z",
+            "trueHeading": 233,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 7,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-15T06:31:55.189Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESPOIR",
+        "imo": 9491472,
+        "callsign": "PCDQ",
+        "offsets": {
+            "bow": 155,
+            "stern": 13,
+            "port": 8,
+            "starboard": 18
+        },
+        "draught": 8.9,
+        "destination": "GAVLE",
+        "eta": "2020-01-15T06:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

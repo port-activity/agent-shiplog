@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "e41f8c70-2768-42d5-a3a0-0a4988ba1fcb",
+        "parent": null,
+        "template": 3020,
+        "vessel": {
+            "mmsi": 230666000,
+            "speedOverGround": 1.8,
+            "highAccuracy": true,
+            "longitude": 17.21919666666667,
+            "latitude": 60.692775,
+            "courseOverGround": 154.7,
+            "received": "2020-01-22T14:58:53.593Z",
+            "trueHeading": 325,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T20:10:41.606Z",
+        "departure": {
+            "departure": "2020-01-22T14:58:53.593Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "BALTIC MADONNA",
+        "imo": 9100138,
+        "callsign": "OJRV",
+        "offsets": {
+            "bow": 77,
+            "stern": 13,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 4.3,
+        "destination": "RAUMA",
+        "eta": "2020-01-23T04:00:00Z"
+    },
+    "area": {
+        "id": 2396,
+        "name": "12 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

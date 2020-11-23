@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "8cdc089c-bcf3-436a-9592-bf753f81c3b0",
+        "parent": null,
+        "template": 3024,
+        "vessel": {
+            "mmsi": 209543000,
+            "speedOverGround": 0.6,
+            "highAccuracy": true,
+            "longitude": 17.222166666666666,
+            "latitude": 60.69233333333333,
+            "courseOverGround": 6,
+            "received": "2020-01-23T06:09:05.909Z",
+            "trueHeading": 168,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 8,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T06:09:05.909Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "THETIS D",
+        "imo": 9372274,
+        "callsign": "5BEU5",
+        "offsets": {
+            "bow": 157,
+            "stern": 11,
+            "port": 13,
+            "starboard": 13
+        },
+        "draught": 6.6,
+        "destination": "SEGVX",
+        "eta": "2020-01-23T05:00:00Z"
+    },
+    "area": {
+        "id": 2400,
+        "name": "19 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

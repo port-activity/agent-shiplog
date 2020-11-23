@@ -1,0 +1,60 @@
+{
+    "imo": 9488839,
+    "vessel_name": "ASTREA",
+    "state": "Arrival_Vessel_AnchorageArea",
+    "time_type": "Actual",
+    "time": "2020-04-22T07:53:54+0000",
+    "payload": {
+        "source": "shiplog",
+        "location": "Anchorage B",
+        "mmsi": 266466000,
+        "call_sign": "SBDA",
+        "vessel_draft": 5.6,
+        "original_message": {
+            "portCall": {
+                "id": "1c193587-e38d-4cee-9ffb-8483d5651faa",
+                "parent": null,
+                "template": 3526,
+                "vessel": {
+                    "mmsi": 266466000,
+                    "speedOverGround": 0.1,
+                    "highAccuracy": true,
+                    "longitude": 17.416166666666665,
+                    "latitude": 60.695166666666665,
+                    "courseOverGround": 355,
+                    "received": "2020-04-22T07:53:54.615Z",
+                    "trueHeading": 21,
+                    "navigationalStatus": "at_anchor",
+                    "rateOfTurn": 0,
+                    "maneuvreIndicator": "not_available",
+                    "aisClass": "a",
+                    "aisOrigin": "other",
+                    "feed": "KYSTVERKET SVERIGE",
+                    "source": "ais"
+                },
+                "arrived": "2020-04-22T07:53:54.615Z",
+                "departure": null
+            },
+            "vesselMeta": {
+                "name": "ASTREA",
+                "imo": 9488839,
+                "callsign": "SBDA",
+                "offsets": {
+                    "bow": 104,
+                    "stern": 25,
+                    "port": 8,
+                    "starboard": 12
+                },
+                "draught": 5.6,
+                "destination": "SE GOT",
+                "eta": "2020-04-25T17:00:00Z"
+            },
+            "area": {
+                "id": 3145,
+                "name": "Anchorage B"
+            },
+            "tenant": "gavlehamn",
+            "portPlan": null
+        }
+    }
+}

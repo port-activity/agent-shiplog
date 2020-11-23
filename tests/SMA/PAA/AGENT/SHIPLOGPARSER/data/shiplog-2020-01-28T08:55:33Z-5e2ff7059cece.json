@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "b1c41b7b-d7f5-4a39-9af7-61c56e1a5f55",
+        "parent": "a63e49dd-caec-4623-a9b6-237d47f20bea",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 249803000,
+            "speedOverGround": 1,
+            "highAccuracy": false,
+            "longitude": 17.778333333333332,
+            "latitude": 60.71333333333333,
+            "courseOverGround": 6.6,
+            "received": "2020-01-28T08:55:01.568Z",
+            "trueHeading": null,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": null,
+            "aisOrigin": "self",
+            "feed": "NorSat_1",
+            "source": "sat"
+        },
+        "arrived": "2020-01-28T08:24:18.258Z",
+        "departure": {
+            "departure": "2020-01-28T08:55:01.568Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "NIKE",
+        "imo": 9431032,
+        "callsign": "9HA2013",
+        "offsets": {
+            "bow": 98,
+            "stern": 24,
+            "port": 10,
+            "starboard": 7
+        },
+        "draught": 6.4,
+        "destination": "GAVLE,SWEDEN",
+        "eta": "2020-01-28T08:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

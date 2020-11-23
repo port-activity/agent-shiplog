@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "8ecdc9eb-267b-420b-8782-6ff22e93aaf5",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 244238000,
+            "speedOverGround": 13.5,
+            "highAccuracy": false,
+            "longitude": 17.600861666666667,
+            "latitude": 60.71067333333334,
+            "courseOverGround": 270.5,
+            "received": "2020-01-29T07:07:33.681Z",
+            "trueHeading": 269,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 9,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-29T07:07:33.681Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESSENCE",
+        "imo": 9491496,
+        "callsign": "PBNL",
+        "offsets": {
+            "bow": 145,
+            "stern": 23,
+            "port": 7,
+            "starboard": 19
+        },
+        "draught": 8.3,
+        "destination": "SEGVX",
+        "eta": "2020-01-29T07:30:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

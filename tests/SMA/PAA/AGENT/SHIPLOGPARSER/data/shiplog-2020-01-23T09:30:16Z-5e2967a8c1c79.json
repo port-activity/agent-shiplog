@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "70968637-8113-498a-b40f-d8c75d2da790",
+        "parent": "46dd7bc3-0077-43e0-9ecd-47910456cf07",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 212209000,
+            "speedOverGround": 9,
+            "highAccuracy": false,
+            "longitude": 17.321893333333332,
+            "latitude": 60.73057666666667,
+            "courseOverGround": 233,
+            "received": "2020-01-23T09:29:09.854Z",
+            "trueHeading": 233,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T09:29:09.854Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "CEMSEA III",
+        "imo": 9195925,
+        "callsign": "5BZA3",
+        "offsets": {
+            "bow": 81,
+            "stern": 14,
+            "port": 3,
+            "starboard": 10
+        },
+        "draught": 6.4,
+        "destination": "GAVLE",
+        "eta": "2020-01-23T08:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

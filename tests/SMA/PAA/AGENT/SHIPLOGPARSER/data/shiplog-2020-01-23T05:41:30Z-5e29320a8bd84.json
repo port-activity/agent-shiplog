@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "8ae39a01-410e-48f9-8ebc-cfadd9823e3b",
+        "parent": "725592cf-c58d-4dda-a541-b2ed779606f9",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 209543000,
+            "speedOverGround": 7.5,
+            "highAccuracy": true,
+            "longitude": 17.26597333333333,
+            "latitude": 60.703068333333334,
+            "courseOverGround": 214,
+            "received": "2020-01-23T05:40:44.579Z",
+            "trueHeading": 217,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 8,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T05:40:44.579Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "THETIS D",
+        "imo": 9372274,
+        "callsign": "5BEU5",
+        "offsets": {
+            "bow": 157,
+            "stern": 11,
+            "port": 13,
+            "starboard": 13
+        },
+        "draught": 6.6,
+        "destination": "SEGVX",
+        "eta": "2020-01-23T05:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

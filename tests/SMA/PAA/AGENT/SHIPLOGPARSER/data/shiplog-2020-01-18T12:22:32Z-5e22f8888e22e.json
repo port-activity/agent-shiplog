@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "98e36227-450c-4ece-a346-b67088a52c97",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 636091104,
+            "speedOverGround": 0.2,
+            "highAccuracy": false,
+            "longitude": 17.22199833333333,
+            "latitude": 60.693,
+            "courseOverGround": 357.5,
+            "received": "2020-01-18T12:21:50.389Z",
+            "trueHeading": 159,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 2,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T12:21:50.389Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ANNABA",
+        "imo": 9306201,
+        "callsign": "A8JJ8",
+        "offsets": {
+            "bow": 147,
+            "stern": 20,
+            "port": 15,
+            "starboard": 11
+        },
+        "draught": 8,
+        "destination": "SEGVX",
+        "eta": "2020-01-18T06:00:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

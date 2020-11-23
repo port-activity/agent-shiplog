@@ -1,0 +1,11 @@
+<Placemark>
+    <name>Area: {area}</name>
+    <description>
+        trueHeading: {trueHeading}
+        navigationalStatus: {navigationalStatus}
+        departureReason: {departureReason}
+    </description>
+    <Point>
+        <coordinates>{longitude},{latitude},0</coordinates>
+    </Point>
+</Placemark>

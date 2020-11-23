@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "57e1d3dc-70b3-4df4-9873-62e655f8c3f9",
+        "parent": null,
+        "template": 3021,
+        "vessel": {
+            "mmsi": 314431000,
+            "speedOverGround": 4,
+            "highAccuracy": false,
+            "longitude": 17.218305,
+            "latitude": 60.69392833333333,
+            "courseOverGround": 155.5,
+            "received": "2020-01-15T10:57:16.299Z",
+            "trueHeading": 160,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:10.273Z",
+        "departure": {
+            "departure": "2020-01-15T10:57:16.299Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "FLUVIUS TAW",
+        "imo": 9195858,
+        "callsign": "8PAL8",
+        "offsets": {
+            "bow": 80,
+            "stern": 15,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 3.6,
+        "destination": "EE MUU",
+        "eta": "2020-01-16T12:00:00Z"
+    },
+    "area": {
+        "id": 2397,
+        "name": "13-14 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

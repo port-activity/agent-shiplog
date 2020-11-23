@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "98673d54-566c-412a-aa36-d9f9367243de",
+        "parent": null,
+        "template": 3021,
+        "vessel": {
+            "mmsi": 314465000,
+            "speedOverGround": 1.1,
+            "highAccuracy": false,
+            "longitude": 17.218146666666666,
+            "latitude": 60.693729999999995,
+            "courseOverGround": 150.4,
+            "received": "2020-01-23T10:56:27.096Z",
+            "trueHeading": 335,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T08:55:30.914Z",
+        "departure": {
+            "departure": "2020-01-23T10:56:27.096Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "FLUVIUS KENN",
+        "imo": 8915756,
+        "callsign": "8PAP9",
+        "offsets": {
+            "bow": 78,
+            "stern": 10,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 3.4,
+        "destination": "UST LUGA",
+        "eta": "2020-01-24T23:00:00Z"
+    },
+    "area": {
+        "id": 2397,
+        "name": "13-14 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

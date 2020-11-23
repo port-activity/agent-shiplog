@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "58830b75-043e-437e-990d-f338bc94f37a",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 231815000,
+            "speedOverGround": 1.2,
+            "highAccuracy": false,
+            "longitude": 18.18,
+            "latitude": 60.805,
+            "courseOverGround": 6.2,
+            "received": "2020-01-29T08:50:22.172Z",
+            "trueHeading": null,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": null,
+            "aisOrigin": "self",
+            "feed": "NorSat_1",
+            "source": "sat"
+        },
+        "arrived": "2020-01-29T08:37:56.129Z",
+        "departure": {
+            "departure": "2020-01-29T08:50:22.172Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ICE CRYSTAL",
+        "imo": 9818321,
+        "callsign": "OZ2179",
+        "offsets": {
+            "bow": 93,
+            "stern": 12,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 4,
+        "destination": "GAVLE",
+        "eta": "2020-01-29T10:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "6f360dd0-712a-4809-9594-74915d8c824d",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 265517700,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.210416666666667,
+            "latitude": 60.68974166666667,
+            "courseOverGround": 272.8,
+            "received": "2020-01-14T13:20:22.264Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:38.220Z",
+        "departure": {
+            "departure": "2020-01-14T13:20:22.264Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "JARVEN",
+        "imo": null,
+        "callsign": "SEBK",
+        "offsets": {
+            "bow": 7,
+            "stern": 24,
+            "port": 0,
+            "starboard": 0
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

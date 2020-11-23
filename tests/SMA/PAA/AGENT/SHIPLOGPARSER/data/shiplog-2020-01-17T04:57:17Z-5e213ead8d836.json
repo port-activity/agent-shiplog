@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "ffe9b64a-46ac-433a-b678-abc48ffc2c50",
+        "parent": "e06b3884-5a98-4936-991b-7a620474b372",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 245930000,
+            "speedOverGround": 7.6,
+            "highAccuracy": false,
+            "longitude": 17.324166666666667,
+            "latitude": 60.73166666666667,
+            "courseOverGround": 228,
+            "received": "2020-01-17T04:56:27.201Z",
+            "trueHeading": 231,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T04:56:27.201Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "VANCOUVERBORG",
+        "imo": 9213741,
+        "callsign": "PBCF",
+        "offsets": {
+            "bow": 122,
+            "stern": 10,
+            "port": 7,
+            "starboard": 9
+        },
+        "draught": 6.1,
+        "destination": "SEGVX",
+        "eta": "2020-01-17T04:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "c46538af-48ba-4caa-9d29-9f75da1bd227",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 255806249,
+            "speedOverGround": 1.4,
+            "highAccuracy": true,
+            "longitude": 17.221825000000003,
+            "latitude": 60.69277666666667,
+            "courseOverGround": 179,
+            "received": "2020-01-26T08:01:25.872Z",
+            "trueHeading": 161,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -11,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-25T04:38:37.238Z",
+        "departure": {
+            "departure": "2020-01-26T08:01:25.872Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ADELINA D",
+        "imo": 9306079,
+        "callsign": "CQAQ7",
+        "offsets": {
+            "bow": 152,
+            "stern": 14,
+            "port": 10,
+            "starboard": 15
+        },
+        "draught": 10,
+        "destination": "SENRK",
+        "eta": "2020-01-27T03:30:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

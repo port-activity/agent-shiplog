@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "d0b3d44f-5eea-4548-a400-717d2fa4cd1e",
+        "parent": null,
+        "template": 3017,
+        "vessel": {
+            "mmsi": 244150000,
+            "speedOverGround": 0.5,
+            "highAccuracy": false,
+            "longitude": 17.219901666666665,
+            "latitude": 60.691003333333335,
+            "courseOverGround": 323.7,
+            "received": "2020-01-20T18:17:47.693Z",
+            "trueHeading": 340,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-20T18:17:47.693Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "LADY NOLA",
+        "imo": 9243863,
+        "callsign": "PBFO",
+        "offsets": {
+            "bow": 71,
+            "stern": 9,
+            "port": 10,
+            "starboard": 2
+        },
+        "draught": 5.1,
+        "destination": "GAVLE",
+        "eta": "2020-01-20T20:00:00Z"
+    },
+    "area": {
+        "id": 2393,
+        "name": "10 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

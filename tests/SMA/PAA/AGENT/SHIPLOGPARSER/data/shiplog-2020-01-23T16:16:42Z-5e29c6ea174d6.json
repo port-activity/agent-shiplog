@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "b048c363-8699-4f5d-afb2-ccfa346d1d25",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 212369000,
+            "speedOverGround": 7.4,
+            "highAccuracy": false,
+            "longitude": 17.474371666666666,
+            "latitude": 60.78882333333333,
+            "courseOverGround": 0,
+            "received": "2020-01-23T16:16:14.172Z",
+            "trueHeading": 340,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -127,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T06:23:00.564Z",
+        "departure": {
+            "departure": "2020-01-23T16:16:14.172Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "LOTTA VG",
+        "imo": 9155975,
+        "callsign": "5BDP4",
+        "offsets": {
+            "bow": 79,
+            "stern": 11,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 6.2,
+        "destination": "FIKOK",
+        "eta": "2020-01-25T10:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

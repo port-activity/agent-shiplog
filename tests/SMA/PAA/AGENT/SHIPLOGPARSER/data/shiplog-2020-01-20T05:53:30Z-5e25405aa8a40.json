@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "7811cea2-4ea9-449e-96b1-0bdb3849b1fc",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 235009040,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.273333333333333,
+            "latitude": 60.685,
+            "courseOverGround": 5,
+            "received": "2020-01-20T05:49:41.554Z",
+            "trueHeading": null,
+            "navigationalStatus": "moored",
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": null,
+            "aisOrigin": "self",
+            "feed": "NorSat_1",
+            "source": "sat"
+        },
+        "arrived": "2020-01-20T05:49:41.554Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESTLAND",
+        "imo": 9247314,
+        "callsign": "MJFC3",
+        "offsets": {
+            "bow": 81,
+            "stern": 18,
+            "port": 13,
+            "starboard": 4
+        },
+        "draught": 4.1,
+        "destination": "KUNDA",
+        "eta": "2020-01-21T05:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

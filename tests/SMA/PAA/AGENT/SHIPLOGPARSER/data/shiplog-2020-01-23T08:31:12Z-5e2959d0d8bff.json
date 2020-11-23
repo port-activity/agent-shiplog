@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "46dd7bc3-0077-43e0-9ecd-47910456cf07",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 212209000,
+            "speedOverGround": 9.3,
+            "highAccuracy": false,
+            "longitude": 17.598923333333335,
+            "latitude": 60.71058166666667,
+            "courseOverGround": 269.1,
+            "received": "2020-01-23T08:30:10.035Z",
+            "trueHeading": 270,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T08:30:10.035Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "CEMSEA III",
+        "imo": 9195925,
+        "callsign": "5BZA3",
+        "offsets": {
+            "bow": 81,
+            "stern": 14,
+            "port": 3,
+            "starboard": 10
+        },
+        "draught": 6.4,
+        "destination": "GAVLE",
+        "eta": "2020-01-23T08:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "70c80119-3632-42de-8667-9c063e2eb27c",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 266129000,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.232761666666665,
+            "latitude": 60.69554666666667,
+            "courseOverGround": 269.2,
+            "received": "2020-01-14T13:20:43.571Z",
+            "trueHeading": 141,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T10:01:13.314Z",
+        "departure": {
+            "departure": "2020-01-14T13:20:43.571Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "RAMONA",
+        "imo": 9271896,
+        "callsign": "SFGZ",
+        "offsets": {
+            "bow": 118,
+            "stern": 26,
+            "port": 21,
+            "starboard": 1
+        },
+        "draught": 8.3,
+        "destination": "SE GVX",
+        "eta": "2020-01-14T10:00:00Z"
+    },
+    "area": {
+        "id": 2404,
+        "name": "27 Energi kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

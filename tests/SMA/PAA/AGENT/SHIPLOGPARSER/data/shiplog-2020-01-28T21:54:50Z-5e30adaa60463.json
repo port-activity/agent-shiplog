@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "2f11120b-1683-47ca-ba68-e9e21b854200",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 249803000,
+            "speedOverGround": 0.9,
+            "highAccuracy": false,
+            "longitude": 17.3,
+            "latitude": 60.721666666666664,
+            "courseOverGround": 1.2,
+            "received": "2020-01-28T21:44:49.654Z",
+            "trueHeading": null,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": null,
+            "aisOrigin": "self",
+            "feed": "NorSat_1",
+            "source": "sat"
+        },
+        "arrived": "2020-01-28T21:44:49.654Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "NIKE",
+        "imo": 9431032,
+        "callsign": "9HA2013",
+        "offsets": {
+            "bow": 98,
+            "stern": 24,
+            "port": 10,
+            "starboard": 7
+        },
+        "draught": 5.5,
+        "destination": "SKUTSKAR",
+        "eta": "2020-01-28T20:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

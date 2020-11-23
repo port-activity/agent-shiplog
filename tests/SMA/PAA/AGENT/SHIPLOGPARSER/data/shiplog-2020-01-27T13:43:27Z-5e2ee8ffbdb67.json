@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "ec4c497d-812d-4523-9474-cc9f2b0cd4a0",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 212518000,
+            "speedOverGround": 11.7,
+            "highAccuracy": false,
+            "longitude": 17.599578333333334,
+            "latitude": 60.70966,
+            "courseOverGround": 88.5,
+            "received": "2020-01-27T13:42:52.300Z",
+            "trueHeading": 87,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T07:00:32.132Z",
+        "departure": {
+            "departure": "2020-01-27T13:42:52.300Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "TRANSMAR",
+        "imo": 9167332,
+        "callsign": "5BDN4",
+        "offsets": {
+            "bow": 75,
+            "stern": 15,
+            "port": 6,
+            "starboard": 8
+        },
+        "draught": 3.9,
+        "destination": "SZCZECIN",
+        "eta": "2020-01-29T16:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

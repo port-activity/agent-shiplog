@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "7fba0632-5a4f-4c2f-a46f-7cde4d1419bc",
+        "parent": "ec4c497d-812d-4523-9474-cc9f2b0cd4a0",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 212518000,
+            "speedOverGround": 11.1,
+            "highAccuracy": false,
+            "longitude": 17.324133333333336,
+            "latitude": 60.731698333333334,
+            "courseOverGround": 52.8,
+            "received": "2020-01-27T12:58:50.958Z",
+            "trueHeading": 54,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T07:32:52.804Z",
+        "departure": {
+            "departure": "2020-01-27T12:58:50.958Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "TRANSMAR",
+        "imo": 9167332,
+        "callsign": "5BDN4",
+        "offsets": {
+            "bow": 75,
+            "stern": 15,
+            "port": 6,
+            "starboard": 8
+        },
+        "draught": 3.9,
+        "destination": "SZCZECIN",
+        "eta": "2020-01-29T16:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

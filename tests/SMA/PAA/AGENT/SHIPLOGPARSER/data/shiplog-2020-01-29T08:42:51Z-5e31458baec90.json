@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "2f3b6f46-21e3-49e4-824f-3cdac4c21392",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 244238000,
+            "speedOverGround": 0.7,
+            "highAccuracy": false,
+            "longitude": 17.221778333333337,
+            "latitude": 60.69264833333333,
+            "courseOverGround": 350.8,
+            "received": "2020-01-29T08:29:49.837Z",
+            "trueHeading": 173,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -16,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-29T08:29:49.837Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESSENCE",
+        "imo": 9491496,
+        "callsign": "PBNL",
+        "offsets": {
+            "bow": 145,
+            "stern": 23,
+            "port": 7,
+            "starboard": 19
+        },
+        "draught": 8.3,
+        "destination": "SEGVX",
+        "eta": "2020-01-29T07:30:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

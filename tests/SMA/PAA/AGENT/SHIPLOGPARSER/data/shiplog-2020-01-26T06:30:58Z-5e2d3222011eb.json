@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "53bb773e-54d7-4176-9a59-6882e0bb7eb3",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 246457000,
+            "speedOverGround": 11,
+            "highAccuracy": false,
+            "longitude": 17.479516666666665,
+            "latitude": 60.78815,
+            "courseOverGround": 329,
+            "received": "2020-01-26T06:30:22.324Z",
+            "trueHeading": 327,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T06:09:29.617Z",
+        "departure": {
+            "departure": "2020-01-26T06:30:22.324Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "WESTBORG",
+        "imo": 9196187,
+        "callsign": "PDBQ",
+        "offsets": {
+            "bow": 81,
+            "stern": 8,
+            "port": 6,
+            "starboard": 6
+        },
+        "draught": 5.8,
+        "destination": "SENOT",
+        "eta": "2020-01-26T07:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

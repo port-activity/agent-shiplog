@@ -1,0 +1,66 @@
+{
+    "imo": 9818321,
+    "vessel_name": "ICE CRYSTAL",
+    "state": "Departure_Vessel_PortArea",
+    "time_type": "Actual",
+    "time": "2020-01-29T10:26:18+0000",
+    "payload": {
+        "source": "shiplog",
+        "location": "Hamnområde",
+        "mmsi": 231815000,
+        "call_sign": "OZ2179",
+        "vessel_draft": 4,
+        "original_message": {
+            "portCall": {
+                "id": "97d189ff-7d80-4c5a-aa6c-11fb84d094f6",
+                "parent": "7e36e851-f93a-4f9b-beeb-3ce1a5a4ba67",
+                "template": 3037,
+                "vessel": {
+                    "mmsi": 231815000,
+                    "speedOverGround": 1.3,
+                    "highAccuracy": false,
+                    "longitude": 17.561666666666667,
+                    "latitude": 60.711666666666666,
+                    "courseOverGround": 6.8,
+                    "received": "2020-01-29T10:26:18.753Z",
+                    "trueHeading": null,
+                    "navigationalStatus": "under_way_using_engine",
+                    "rateOfTurn": null,
+                    "maneuvreIndicator": null,
+                    "aisClass": null,
+                    "aisOrigin": "self",
+                    "feed": "NorSat_1",
+                    "source": "sat"
+                },
+                "arrived": "2020-01-29T09:41:55.732Z",
+                "departure": {
+                    "departure": "2020-01-29T10:26:18.753Z",
+                    "reason": {
+                        "type": "exit"
+                    },
+                    "tentative": false
+                }
+            },
+            "vesselMeta": {
+                "name": "ICE CRYSTAL",
+                "imo": 9818321,
+                "callsign": "OZ2179",
+                "offsets": {
+                    "bow": 93,
+                    "stern": 12,
+                    "port": 7,
+                    "starboard": 7
+                },
+                "draught": 4,
+                "destination": "GAVLE",
+                "eta": "2020-01-29T10:00:00Z"
+            },
+            "area": {
+                "id": 2414,
+                "name": "Hamnområde"
+            },
+            "tenant": "gavlehamn",
+            "portPlan": null
+        }
+    }
+}

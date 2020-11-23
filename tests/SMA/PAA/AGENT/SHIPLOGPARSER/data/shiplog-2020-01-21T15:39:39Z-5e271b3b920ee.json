@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "f368d094-479c-4641-b2fb-c27ffe34c28f",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 230666000,
+            "speedOverGround": 9.8,
+            "highAccuracy": true,
+            "longitude": 17.59975166666667,
+            "latitude": 60.70986333333334,
+            "courseOverGround": 270.9,
+            "received": "2020-01-21T15:38:57.039Z",
+            "trueHeading": 275,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T15:38:57.039Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "BALTIC MADONNA",
+        "imo": 9100138,
+        "callsign": "OJRV",
+        "offsets": {
+            "bow": 77,
+            "stern": 13,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 4.7,
+        "destination": "GAEVLE",
+        "eta": "2020-01-21T17:15:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

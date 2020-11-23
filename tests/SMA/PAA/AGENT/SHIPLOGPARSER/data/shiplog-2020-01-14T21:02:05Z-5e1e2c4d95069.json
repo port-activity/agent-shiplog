@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "6ff66d07-d225-4551-b1db-0217ef419a0f",
+        "parent": "21f3f04b-96a4-4ed9-9bb5-17fa9c15444b",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 212958000,
+            "speedOverGround": 7.9,
+            "highAccuracy": false,
+            "longitude": 17.32344,
+            "latitude": 60.73127833333333,
+            "courseOverGround": 231.6,
+            "received": "2020-01-14T17:08:27.882Z",
+            "trueHeading": 233,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T17:08:27.882Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "OSA",
+        "imo": 8420086,
+        "callsign": "5BHW4",
+        "offsets": {
+            "bow": 60,
+            "stern": 24,
+            "port": 5,
+            "starboard": 6
+        },
+        "draught": 4,
+        "destination": "GAVLE",
+        "eta": "2020-01-14T20:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

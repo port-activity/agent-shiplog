@@ -1,0 +1,70 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: agent-shiplog
+spec:
+  selector:
+    app: agent-shiplog
+  type: NodePort
+  ports:
+    - protocol: TCP
+      name: agent-shiplog
+      port: 80
+      targetPort: 80
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: agent-shiplog
+  labels:
+    app: agent-shiplog
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: agent-shiplog
+  template:
+    metadata:
+      labels:
+        app: agent-shiplog
+    spec:
+      imagePullSecrets:
+      - name: pipeline-docker-registry
+      volumes:
+        - name: mypv
+          persistentVolumeClaim:
+            claimName: shiplog-uploads
+      containers:
+      - name: agent-shiplog
+        image: ${CICD_IMAGE}:${CICD_EXECUTION_SEQUENCE}-${CICD_GIT_COMMIT}
+        volumeMounts:
+        - mountPath: "/var/www/src/public/uploads"
+          name: mypv
+        env:
+          - name: API_URL
+            valueFrom:
+              secretKeyRef:
+                name: agent-shiplog
+                key: API_URL
+          - name: API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: agent-shiplog
+                key: API_KEY
+          - name: SHIPLOG_AUTH_KEY
+            valueFrom:
+              secretKeyRef:
+                name: agent-shiplog
+                key: SHIPLOG_AUTH_KEY
+          - name: AREA_TO_STATUS_MAPPING
+            valueFrom:
+              secretKeyRef:
+                name: agent-shiplog
+                key: AREA_TO_STATUS_MAPPING
+          - name: AINO_API_KEY
+            valueFrom:
+              secretKeyRef:
+                name: agent-shiplog
+                key: AINO_API_KEY
+        ports:
+        - containerPort: 80

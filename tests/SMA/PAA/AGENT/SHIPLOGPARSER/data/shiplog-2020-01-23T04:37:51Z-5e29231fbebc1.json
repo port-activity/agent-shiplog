@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "499cff12-bbe1-4d04-85cc-252c1321a960",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 209543000,
+            "speedOverGround": 13.4,
+            "highAccuracy": true,
+            "longitude": 17.600833333333334,
+            "latitude": 60.7105,
+            "courseOverGround": 270,
+            "received": "2020-01-23T04:37:15.060Z",
+            "trueHeading": 271,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -9,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T04:37:15.060Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "THETIS D",
+        "imo": 9372274,
+        "callsign": "5BEU5",
+        "offsets": {
+            "bow": 157,
+            "stern": 11,
+            "port": 13,
+            "starboard": 13
+        },
+        "draught": 6.6,
+        "destination": "SEGVX",
+        "eta": "2020-01-23T05:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

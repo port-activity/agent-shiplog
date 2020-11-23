@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "84a640fb-4455-49af-a817-f17f531636cc",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 231794000,
+            "speedOverGround": 1.2,
+            "highAccuracy": false,
+            "longitude": 17.275208333333335,
+            "latitude": 60.68680833333334,
+            "courseOverGround": 186.8,
+            "received": "2020-01-19T04:53:04.430Z",
+            "trueHeading": 2,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 8,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-19T04:53:04.430Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "NAVEN",
+        "imo": 9020285,
+        "callsign": "OZ2107",
+        "offsets": {
+            "bow": 74,
+            "stern": 15,
+            "port": 6,
+            "starboard": 7
+        },
+        "draught": 5.3,
+        "destination": "KARSKAR",
+        "eta": "2020-01-19T05:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

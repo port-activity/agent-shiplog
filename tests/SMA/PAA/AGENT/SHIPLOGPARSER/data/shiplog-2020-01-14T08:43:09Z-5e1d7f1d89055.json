@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "93e6aeb6-beb3-40f3-85a1-0759c3b315e5",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 266129000,
+            "speedOverGround": 13.3,
+            "highAccuracy": true,
+            "longitude": 17.59943333333333,
+            "latitude": 60.710276666666665,
+            "courseOverGround": 268.7,
+            "received": "2020-01-14T08:42:12.465Z",
+            "trueHeading": 268,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 13,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T08:42:12.465Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "RAMONA",
+        "imo": 9271896,
+        "callsign": "SFGZ",
+        "offsets": {
+            "bow": 118,
+            "stern": 26,
+            "port": 21,
+            "starboard": 1
+        },
+        "draught": 8.3,
+        "destination": "SE GVX",
+        "eta": "2020-01-14T10:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

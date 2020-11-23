@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "49128cb1-5f9e-4541-a163-46ff80363449",
+        "parent": null,
+        "template": 3034,
+        "vessel": {
+            "mmsi": 244171000,
+            "speedOverGround": 0.5,
+            "highAccuracy": true,
+            "longitude": 17.21882833333333,
+            "latitude": 60.690005,
+            "courseOverGround": 241.5,
+            "received": "2020-01-27T13:07:04.052Z",
+            "trueHeading": 242,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T13:07:04.052Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "VARNEBANK",
+        "imo": 9213739,
+        "callsign": "PBAH",
+        "offsets": {
+            "bow": 119,
+            "stern": 13,
+            "port": 4,
+            "starboard": 12
+        },
+        "draught": 5.1,
+        "destination": "SEGAV",
+        "eta": "2020-01-27T13:00:00Z"
+    },
+    "area": {
+        "id": 2410,
+        "name": "7 Södra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "f8051b9e-7145-4061-9ad8-6ef77e59aaed",
+        "parent": "93e6aeb6-beb3-40f3-85a1-0759c3b315e5",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 266129000,
+            "speedOverGround": 0.1,
+            "highAccuracy": true,
+            "longitude": 17.232719999999997,
+            "latitude": 60.69554166666667,
+            "courseOverGround": 269.2,
+            "received": "2020-01-14T15:32:47.552Z",
+            "trueHeading": 143,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T09:25:33.319Z",
+        "departure": {
+            "departure": "2020-01-14T15:32:47.552Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "RAMONA",
+        "imo": 9271896,
+        "callsign": "SFGZ",
+        "offsets": {
+            "bow": 118,
+            "stern": 26,
+            "port": 21,
+            "starboard": 1
+        },
+        "draught": 8.3,
+        "destination": "SE GVX",
+        "eta": "2020-01-14T10:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

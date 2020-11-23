@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "32cc09e1-6d53-4a96-aaba-a38d05e26f88",
+        "parent": null,
+        "template": 3021,
+        "vessel": {
+            "mmsi": 231815000,
+            "speedOverGround": 1.1,
+            "highAccuracy": false,
+            "longitude": 17.217633333333332,
+            "latitude": 60.69455,
+            "courseOverGround": 328,
+            "received": "2020-01-29T10:03:25.500Z",
+            "trueHeading": 149,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-29T10:03:25.500Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ICE CRYSTAL",
+        "imo": 9818321,
+        "callsign": "OZ2179",
+        "offsets": {
+            "bow": 93,
+            "stern": 12,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 4,
+        "destination": "GAVLE",
+        "eta": "2020-01-29T10:00:00Z"
+    },
+    "area": {
+        "id": 2397,
+        "name": "13-14 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

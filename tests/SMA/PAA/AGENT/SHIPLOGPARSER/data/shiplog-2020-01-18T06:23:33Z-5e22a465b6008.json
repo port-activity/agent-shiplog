@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "b048c363-8699-4f5d-afb2-ccfa346d1d25",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 212369000,
+            "speedOverGround": 10.3,
+            "highAccuracy": false,
+            "longitude": 17.499603333333333,
+            "latitude": 60.712089999999996,
+            "courseOverGround": 271.4,
+            "received": "2020-01-18T06:23:00.564Z",
+            "trueHeading": 271,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T06:23:00.564Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "LOTTA VG",
+        "imo": 9155975,
+        "callsign": "5BDP4",
+        "offsets": {
+            "bow": 79,
+            "stern": 11,
+            "port": 4,
+            "starboard": 10
+        },
+        "draught": 6,
+        "destination": "SEGVX",
+        "eta": "2020-01-18T06:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

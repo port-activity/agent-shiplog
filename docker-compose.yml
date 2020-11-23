@@ -1,0 +1,14 @@
+version: '3.7'
+
+
+services:
+  agent-shiplog:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "127.0.0.1:8888:80"
+    volumes:
+      - .:/var/www/:rw,consistent
+    container_name: spia-agent-shiplog
+    env_file: .env

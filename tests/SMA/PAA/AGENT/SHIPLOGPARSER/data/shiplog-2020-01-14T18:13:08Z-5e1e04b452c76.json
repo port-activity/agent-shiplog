@@ -1,0 +1,48 @@
+{
+    "portCall": {
+        "id": "a63c6d34-db51-4b9e-99d1-aa8dd1ce8510",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 231800000,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.218683333333335,
+            "latitude": 60.69481666666666,
+            "courseOverGround": 273.3,
+            "received": "2020-01-13T07:21:46.992Z",
+            "trueHeading": 149,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:46.992Z",
+        "departure": {
+            "type": "reverted_signalloss"
+        }
+    },
+    "vesselMeta": {
+        "name": "SNOW CRYSTAL",
+        "imo": 9818319,
+        "callsign": "OZ2177",
+        "offsets": {
+            "bow": 77,
+            "stern": 12,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 5.1,
+        "destination": "RONNSKAR",
+        "eta": "2020-01-15T18:45:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

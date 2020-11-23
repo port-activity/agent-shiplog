@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "274e65c2-b876-494a-8468-56857539c069",
+        "parent": null,
+        "template": 3023,
+        "vessel": {
+            "mmsi": 255806191,
+            "speedOverGround": 0.1,
+            "highAccuracy": true,
+            "longitude": 17.221999999999998,
+            "latitude": 60.693,
+            "courseOverGround": 64,
+            "received": "2020-01-17T04:11:44.331Z",
+            "trueHeading": 158,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T04:11:44.331Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "HEINRICH EHLER",
+        "imo": 9372200,
+        "callsign": "CQAJ5",
+        "offsets": {
+            "bow": 157,
+            "stern": 9,
+            "port": 22,
+            "starboard": 5
+        },
+        "draught": 8,
+        "destination": "SE GVX",
+        "eta": "2020-01-17T04:00:00Z"
+    },
+    "area": {
+        "id": 2399,
+        "name": "17 Container kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

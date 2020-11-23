@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "bb65ce78-d963-41dd-b8d2-89d5ae4d5eae",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 244171000,
+            "speedOverGround": 10.4,
+            "highAccuracy": true,
+            "longitude": 17.59977,
+            "latitude": 60.70983666666667,
+            "courseOverGround": 268.2,
+            "received": "2020-01-27T11:23:04.316Z",
+            "trueHeading": 268,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-27T11:23:04.316Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "VARNEBANK",
+        "imo": 9213739,
+        "callsign": "PBAH",
+        "offsets": {
+            "bow": 119,
+            "stern": 13,
+            "port": 4,
+            "starboard": 12
+        },
+        "draught": 5.1,
+        "destination": "SEGAV",
+        "eta": "2020-01-27T13:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "0b73e5e9-c8f4-4daa-9f58-82f866113435",
+        "parent": "abe43aa5-a345-415c-969b-4cbb8d20cc23",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 235009040,
+            "speedOverGround": 7.9,
+            "highAccuracy": true,
+            "longitude": 17.323161666666667,
+            "latitude": 60.731244999999994,
+            "courseOverGround": 231.9,
+            "received": "2020-01-17T12:32:12.350Z",
+            "trueHeading": 231,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 3,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-17T12:32:12.350Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "ESTLAND",
+        "imo": 9247314,
+        "callsign": "MJFC3",
+        "offsets": {
+            "bow": 81,
+            "stern": 18,
+            "port": 13,
+            "starboard": 4
+        },
+        "draught": 4.7,
+        "destination": "KARSKAER",
+        "eta": "2020-01-17T13:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

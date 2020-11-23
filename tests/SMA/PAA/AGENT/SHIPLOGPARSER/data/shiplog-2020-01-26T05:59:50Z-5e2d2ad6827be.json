@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "0d2e28b9-6d6b-4bc8-8c19-75cec634de68",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 266465000,
+            "speedOverGround": 13.4,
+            "highAccuracy": true,
+            "longitude": 17.600103333333333,
+            "latitude": 60.709915,
+            "courseOverGround": 91.1,
+            "received": "2020-01-26T05:59:38.074Z",
+            "trueHeading": 90,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -5,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-25T19:37:36.748Z",
+        "departure": {
+            "departure": "2020-01-26T05:59:38.074Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "MERCURIUS",
+        "imo": 9816531,
+        "callsign": "SBDW",
+        "offsets": {
+            "bow": 93,
+            "stern": 27,
+            "port": 3,
+            "starboard": 16
+        },
+        "draught": 5.7,
+        "destination": "BROFJORDEN",
+        "eta": "2020-01-28T12:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

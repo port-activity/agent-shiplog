@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "7fba0632-5a4f-4c2f-a46f-7cde4d1419bc",
+        "parent": "ec4c497d-812d-4523-9474-cc9f2b0cd4a0",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 212518000,
+            "speedOverGround": 9.3,
+            "highAccuracy": false,
+            "longitude": 17.323410000000003,
+            "latitude": 60.731316666666665,
+            "courseOverGround": 232.6,
+            "received": "2020-01-26T07:32:52.804Z",
+            "trueHeading": 231,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-26T07:32:52.804Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "TRANSMAR",
+        "imo": 9167332,
+        "callsign": "5BDN4",
+        "offsets": {
+            "bow": 75,
+            "stern": 15,
+            "port": 6,
+            "starboard": 8
+        },
+        "draught": 6.2,
+        "destination": "GAVLE",
+        "eta": "2020-01-26T08:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

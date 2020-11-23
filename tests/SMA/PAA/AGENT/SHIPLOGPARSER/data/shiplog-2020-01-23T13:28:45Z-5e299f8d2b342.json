@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "45974ead-ac59-4166-8514-7e050ca73720",
+        "parent": null,
+        "template": 3028,
+        "vessel": {
+            "mmsi": 259888000,
+            "speedOverGround": 0.8,
+            "highAccuracy": true,
+            "longitude": 17.233108333333334,
+            "latitude": 60.69453333333333,
+            "courseOverGround": 349.9,
+            "received": "2020-01-23T13:27:42.660Z",
+            "trueHeading": 332,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -11,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T13:27:42.660Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "STAVFJORD",
+        "imo": 9401544,
+        "callsign": "LAHA7",
+        "offsets": {
+            "bow": 113,
+            "stern": 31,
+            "port": 12,
+            "starboard": 11
+        },
+        "draught": 9,
+        "destination": "SE GVX",
+        "eta": "2020-01-23T12:30:00Z"
+    },
+    "area": {
+        "id": 2404,
+        "name": "27 Energi kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

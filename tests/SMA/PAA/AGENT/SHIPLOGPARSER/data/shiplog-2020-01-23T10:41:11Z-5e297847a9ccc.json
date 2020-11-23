@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "5a100793-01b9-4697-bbe0-bb877af7a114",
+        "parent": null,
+        "template": 3032,
+        "vessel": {
+            "mmsi": 212209000,
+            "speedOverGround": 0.5,
+            "highAccuracy": false,
+            "longitude": 17.21357833333333,
+            "latitude": 60.689478333333334,
+            "courseOverGround": 311.2,
+            "received": "2020-01-23T10:35:09.964Z",
+            "trueHeading": 111,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T10:35:09.964Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "CEMSEA III",
+        "imo": 9195925,
+        "callsign": "5BZA3",
+        "offsets": {
+            "bow": 81,
+            "stern": 14,
+            "port": 3,
+            "starboard": 10
+        },
+        "draught": 6.4,
+        "destination": "GAVLE",
+        "eta": "2020-01-23T08:00:00Z"
+    },
+    "area": {
+        "id": 2408,
+        "name": "5 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

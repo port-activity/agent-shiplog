@@ -1,0 +1,48 @@
+{
+    "portCall": {
+        "id": "a47f1bca-c53e-46ad-9822-5979e09a85d8",
+        "parent": null,
+        "template": 3018,
+        "vessel": {
+            "mmsi": 235012220,
+            "speedOverGround": 0.6,
+            "highAccuracy": true,
+            "longitude": 17.274166666666666,
+            "latitude": 60.68733333333333,
+            "courseOverGround": 191,
+            "received": "2020-01-14T06:16:17.226Z",
+            "trueHeading": 182,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 3,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T06:16:17.226Z",
+        "departure": {
+            "type": "reverted_signalloss"
+        }
+    },
+    "vesselMeta": {
+        "name": "FEMBRIA",
+        "imo": 9350771,
+        "callsign": "MPTX6",
+        "offsets": {
+            "bow": 99,
+            "stern": 18,
+            "port": 12,
+            "starboard": 5
+        },
+        "draught": 5.1,
+        "destination": "KARSKAER",
+        "eta": "2020-01-14T05:00:00Z"
+    },
+    "area": {
+        "id": 2394,
+        "name": "105 Bulk kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

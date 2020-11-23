@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "59b385f6-890a-417d-9d72-5d7d043482f1",
+        "parent": "cc87f358-7f59-43dc-a98d-e7f700edbb90",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265724570,
+            "speedOverGround": 3.9,
+            "highAccuracy": true,
+            "longitude": 17.211008333333332,
+            "latitude": 60.686568333333334,
+            "courseOverGround": 241,
+            "received": "2020-01-21T13:54:46.988Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T10:52:27.805Z",
+        "departure": {
+            "departure": "2020-01-21T13:54:46.988Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "MALVINA",
+        "imo": null,
+        "callsign": "8SY9455",
+        "offsets": {
+            "bow": 9,
+            "stern": 1,
+            "port": 1,
+            "starboard": 2
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

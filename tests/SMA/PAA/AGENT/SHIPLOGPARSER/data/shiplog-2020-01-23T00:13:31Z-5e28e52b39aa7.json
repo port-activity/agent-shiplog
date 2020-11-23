@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "fd57f131-33f1-4b95-ad5f-82920abcf616",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 636091854,
+            "speedOverGround": 17.1,
+            "highAccuracy": true,
+            "longitude": 17.598246666666668,
+            "latitude": 60.709648333333334,
+            "courseOverGround": 91.8,
+            "received": "2020-01-23T00:12:42.101Z",
+            "trueHeading": 89,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": -13,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-22T05:32:39.974Z",
+        "departure": {
+            "departure": "2020-01-23T00:12:42.101Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "HELUAN",
+        "imo": 9358905,
+        "callsign": "A8TT2",
+        "offsets": {
+            "bow": 146,
+            "stern": 15,
+            "port": 20,
+            "starboard": 5
+        },
+        "draught": 7.7,
+        "destination": "NORRKOPING",
+        "eta": "2020-01-23T13:00:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

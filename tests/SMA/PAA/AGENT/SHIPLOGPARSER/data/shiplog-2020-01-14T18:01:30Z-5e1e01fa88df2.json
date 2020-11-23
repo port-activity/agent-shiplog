@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "bbc01e1b-3812-4f2e-b8fd-7184bae5f987",
+        "parent": null,
+        "template": 3022,
+        "vessel": {
+            "mmsi": 231800000,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.218683333333335,
+            "latitude": 60.69481666666666,
+            "courseOverGround": 341.9,
+            "received": "2020-01-14T13:15:47.644Z",
+            "trueHeading": 149,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:21:46.992Z",
+        "departure": {
+            "departure": "2020-01-14T13:15:47.644Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "SNOW CRYSTAL",
+        "imo": 9818319,
+        "callsign": "OZ2177",
+        "offsets": {
+            "bow": 77,
+            "stern": 12,
+            "port": 7,
+            "starboard": 7
+        },
+        "draught": 5.1,
+        "destination": "RONNSKAR",
+        "eta": "2020-01-15T18:45:00Z"
+    },
+    "area": {
+        "id": 2398,
+        "name": "16 Slig kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

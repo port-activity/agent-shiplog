@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "372d9103-3698-4e1a-8779-a7093c8cead7",
+        "parent": null,
+        "template": 3015,
+        "vessel": {
+            "mmsi": 636091104,
+            "speedOverGround": 10.5,
+            "highAccuracy": false,
+            "longitude": 17.598666666666666,
+            "latitude": 60.71,
+            "courseOverGround": 90.3,
+            "received": "2020-01-19T06:52:55.132Z",
+            "trueHeading": 89,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 3,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-18T10:32:40.639Z",
+        "departure": {
+            "departure": "2020-01-19T06:52:55.132Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "ANNABA",
+        "imo": 9306201,
+        "callsign": "A8JJ8",
+        "offsets": {
+            "bow": 147,
+            "stern": 20,
+            "port": 15,
+            "starboard": 11
+        },
+        "draught": 9.1,
+        "destination": "SENRK",
+        "eta": "2020-01-20T02:30:00Z"
+    },
+    "area": {
+        "id": 2413,
+        "name": "End of seapassage"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

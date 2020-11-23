@@ -1,0 +1,48 @@
+{
+    "portCall": {
+        "id": "6d3e77c6-eb7b-4dcf-b542-7ef39c835623",
+        "parent": null,
+        "template": 3031,
+        "vessel": {
+            "mmsi": 265517700,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.210515,
+            "latitude": 60.68974,
+            "courseOverGround": 0,
+            "received": "2020-01-13T07:20:38.220Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:38.220Z",
+        "departure": {
+            "type": "reverted_signalloss"
+        }
+    },
+    "vesselMeta": {
+        "name": "JARVEN",
+        "imo": null,
+        "callsign": "SEBK",
+        "offsets": {
+            "bow": 7,
+            "stern": 24,
+            "port": 0,
+            "starboard": 0
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2407,
+        "name": "4 Sydvästra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

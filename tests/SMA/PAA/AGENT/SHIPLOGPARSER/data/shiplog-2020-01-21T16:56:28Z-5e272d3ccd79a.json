@@ -1,0 +1,46 @@
+{
+    "portCall": {
+        "id": "174f7e29-adf8-4a2e-9be1-a89afb48e263",
+        "parent": "53d6d866-8092-4de2-b43c-bc5c2696cfdb",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 256600000,
+            "speedOverGround": 0,
+            "highAccuracy": true,
+            "longitude": 17.221611666666668,
+            "latitude": 60.69367333333333,
+            "courseOverGround": 0.1,
+            "received": "2020-01-21T16:53:23.773Z",
+            "trueHeading": 162,
+            "navigationalStatus": "moored",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-21T16:53:23.773Z",
+        "departure": null
+    },
+    "vesselMeta": {
+        "name": "JETT",
+        "imo": 9358890,
+        "callsign": "9HYK8",
+        "offsets": {
+            "bow": 148,
+            "stern": 13,
+            "port": 19,
+            "starboard": 6
+        },
+        "draught": 8.7,
+        "destination": "GAVLE",
+        "eta": "2020-01-21T07:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

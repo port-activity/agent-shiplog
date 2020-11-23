@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "cea311a4-e7d3-4ab6-9c33-c19b6575cf8f",
+        "parent": null,
+        "template": 3017,
+        "vessel": {
+            "mmsi": 212958000,
+            "speedOverGround": 1.6,
+            "highAccuracy": false,
+            "longitude": 17.220483333333334,
+            "latitude": 60.691535,
+            "courseOverGround": 126.8,
+            "received": "2020-01-15T17:02:00.609Z",
+            "trueHeading": 142,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-14T17:52:09.248Z",
+        "departure": {
+            "departure": "2020-01-15T17:02:00.609Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "OSA",
+        "imo": 8420086,
+        "callsign": "5BHW4",
+        "offsets": {
+            "bow": 60,
+            "stern": 24,
+            "port": 5,
+            "starboard": 6
+        },
+        "draught": 4,
+        "destination": "GAVLE",
+        "eta": "2020-01-14T20:00:00Z"
+    },
+    "area": {
+        "id": 2393,
+        "name": "10 Östra kajen"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

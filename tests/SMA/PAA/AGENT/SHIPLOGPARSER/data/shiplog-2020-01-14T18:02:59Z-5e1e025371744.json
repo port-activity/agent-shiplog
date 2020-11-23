@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "6b31af6a-c12e-41c2-84b9-07c2a3fe72ab",
+        "parent": "6f360dd0-712a-4809-9594-74915d8c824d",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 265517700,
+            "speedOverGround": 0,
+            "highAccuracy": false,
+            "longitude": 17.21043,
+            "latitude": 60.68981,
+            "courseOverGround": 0,
+            "received": "2020-01-14T13:14:24.044Z",
+            "trueHeading": null,
+            "navigationalStatus": null,
+            "rateOfTurn": null,
+            "maneuvreIndicator": null,
+            "aisClass": "b",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-13T07:20:38.220Z",
+        "departure": {
+            "departure": "2020-01-14T13:14:24.044Z",
+            "reason": {
+                "type": "signalloss"
+            },
+            "tentative": true
+        }
+    },
+    "vesselMeta": {
+        "name": "JARVEN",
+        "imo": null,
+        "callsign": "SEBK",
+        "offsets": {
+            "bow": 7,
+            "stern": 24,
+            "port": 0,
+            "starboard": 0
+        },
+        "draught": null,
+        "destination": null,
+        "eta": null
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}

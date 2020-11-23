@@ -1,0 +1,52 @@
+{
+    "portCall": {
+        "id": "cb1cf291-dbb1-4a5b-a2f7-63cbf1f23e9e",
+        "parent": "eb7d9f0b-e656-4972-af6d-8d4a24e96883",
+        "template": 3037,
+        "vessel": {
+            "mmsi": 259888000,
+            "speedOverGround": 8.6,
+            "highAccuracy": true,
+            "longitude": 17.32293,
+            "latitude": 60.73106333333333,
+            "courseOverGround": 49.4,
+            "received": "2020-01-24T14:15:21.204Z",
+            "trueHeading": 48,
+            "navigationalStatus": "under_way_using_engine",
+            "rateOfTurn": 0,
+            "maneuvreIndicator": "not_available",
+            "aisClass": "a",
+            "aisOrigin": "other",
+            "feed": "KYSTVERKET SVERIGE",
+            "source": "ais"
+        },
+        "arrived": "2020-01-23T12:47:13.062Z",
+        "departure": {
+            "departure": "2020-01-24T14:15:21.204Z",
+            "reason": {
+                "type": "exit"
+            },
+            "tentative": false
+        }
+    },
+    "vesselMeta": {
+        "name": "STAVFJORD",
+        "imo": 9401544,
+        "callsign": "LAHA7",
+        "offsets": {
+            "bow": 113,
+            "stern": 31,
+            "port": 12,
+            "starboard": 11
+        },
+        "draught": 6.6,
+        "destination": "PL GDN",
+        "eta": "2020-01-26T04:00:00Z"
+    },
+    "area": {
+        "id": 2414,
+        "name": "Hamnområde"
+    },
+    "tenant": "gavlehamn",
+    "portPlan": null
+}
